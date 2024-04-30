@@ -1,0 +1,11 @@
+TODO:
+    - polish gtt command:
+        needs help section, input checking
+
+    - add spawn item command
+
+    - respec command could also be used to change subclass i think?
+        StartRespecToSubClass(CharUUID, SubClassUUID)
+
+    - get position command 
+        GetPosition(GUIDSTRING, REAL, REAL, REAL)

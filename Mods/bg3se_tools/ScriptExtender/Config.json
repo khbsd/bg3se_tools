@@ -1,0 +1,7 @@
+
+{
+    "RequiredVersion": 4,
+    "ModTable": "bg3se_tools",
+    "FeatureFlags": ["Lua"]
+}
+                    

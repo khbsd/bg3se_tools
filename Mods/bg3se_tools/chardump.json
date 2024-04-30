@@ -1,0 +1,5140 @@
+{
+    "ActionResources": {
+        "Resources": {
+            "420c8df5-45c2-4253-93c2-7ec44e127930": [
+                {
+                    "Amount": 1.0,
+                    "MaxAmount": 1.0,
+                    "ResourceId": 0,
+                    "ResourceUUID": "420c8df5-45c2-4253-93c2-7ec44e127930",
+                    "SubAmounts": null,
+                    "field_28": 140701014672130,
+                    "field_30": 0
+                }
+            ],
+            "45ff0f48-b210-4024-972f-b64a44dc6985": [
+                {
+                    "Amount": 1.0,
+                    "MaxAmount": 1.0,
+                    "ResourceId": 0,
+                    "ResourceUUID": "45ff0f48-b210-4024-972f-b64a44dc6985",
+                    "SubAmounts": null,
+                    "field_28": 140701014672130,
+                    "field_30": 0
+                }
+            ],
+            "734cbcfb-8922-4b6d-8330-b2a7e4c14b6a": [
+                {
+                    "Amount": 1.0,
+                    "MaxAmount": 1.0,
+                    "ResourceId": 0,
+                    "ResourceUUID": "734cbcfb-8922-4b6d-8330-b2a7e4c14b6a",
+                    "SubAmounts": null,
+                    "field_28": 140701014672130,
+                    "field_30": 0
+                }
+            ],
+            "d136c5d9-0ff0-43da-acce-a74a07f8d6bf": [
+                {
+                    "Amount": 2.0,
+                    "MaxAmount": 2.0,
+                    "ResourceId": 1,
+                    "ResourceUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                    "SubAmounts": null,
+                    "field_28": 140701014672136,
+                    "field_30": 0
+                }
+            ],
+            "d6b2369d-84f0-4ca4-a3a7-62d2d192a185": [
+                {
+                    "Amount": 10.5,
+                    "MaxAmount": 10.5,
+                    "ResourceId": 0,
+                    "ResourceUUID": "d6b2369d-84f0-4ca4-a3a7-62d2d192a185",
+                    "SubAmounts": null,
+                    "field_28": 140701014672130,
+                    "field_30": 0
+                }
+            ]
+        }
+    },
+    "Active": {},
+    "ActiveCharacterLight": {
+        "Light": "051648e6-f05a-e41f-e398-ffd5cd148989"
+    },
+    "ActiveSkeletonSlots": {
+        "Slots": [
+            "",
+            "1",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    "AddedSpells": {
+        "Spells": []
+    },
+    "AnimationWaterfall": {
+        "Overrides": [
+            {
+                "AnimationTag": "b6aa23c3-c96d-42d5-8ffa-8d441d18faa7",
+                "OverrideType": 0,
+                "Overrides": [
+                    {
+                        "Resource": "31a36c0d-a9d8-e47d-f48a-f22054b03349",
+                        "Slot": "",
+                        "Type": "Visual"
+                    },
+                    {
+                        "Resource": "f4ead328-66b0-35c8-4c30-319ce28fa36f",
+                        "Slot": "1",
+                        "Type": "VisualSet"
+                    }
+                ]
+            },
+            {
+                "AnimationTag": "d8cadb42-0ff9-4049-afaf-e5d78d06a399",
+                "OverrideType": 1,
+                "Overrides": [
+                    {
+                        "Resource": "49253502-fd7f-a3f8-572e-6d70609c0807",
+                        "Slot": "",
+                        "Type": "Visual"
+                    }
+                ]
+            },
+            {
+                "AnimationTag": "92cd50b6-eb1b-4824-8adb-853e90c34c90",
+                "OverrideType": 1,
+                "Overrides": [
+                    {
+                        "Resource": "8f0c1e9d-0381-de3b-2c9f-6407d88578a4",
+                        "Slot": "",
+                        "Type": "Visual"
+                    }
+                ]
+            },
+            {
+                "AnimationTag": "114e7aee-d1d4-4371-8d90-8a2080592faf",
+                "OverrideType": 1,
+                "Overrides": [
+                    {
+                        "Resource": "3f2fae4a-ef71-a1a2-86aa-bd80ac38f80b",
+                        "Slot": "",
+                        "Type": "Visual"
+                    }
+                ]
+            },
+            {
+                "AnimationTag": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                "OverrideType": 1,
+                "Overrides": [
+                    {
+                        "Resource": "7a53ff88-d58d-6eb3-ccd2-c2f834574535",
+                        "Slot": "",
+                        "Type": "Visual"
+                    }
+                ]
+            },
+            {
+                "AnimationTag": "721dfac3-92d4-41f5-b773-b7072a86232f",
+                "OverrideType": 1,
+                "Overrides": [
+                    {
+                        "Resource": "989627e1-eadd-09ae-cd85-33bd21c04fec",
+                        "Slot": "",
+                        "Type": "Visual"
+                    }
+                ]
+            },
+            {
+                "AnimationTag": "c4598bdb-fc07-40dd-a62c-90cc138bd76f",
+                "OverrideType": 0,
+                "Overrides": [
+                    {
+                        "Resource": "fc5bf6a9-664e-c69c-2166-0756a755fcaf",
+                        "Slot": "",
+                        "Type": "Visual"
+                    }
+                ]
+            },
+            {
+                "AnimationTag": "ff4d9497-023c-434a-bd14-82fc367e991c",
+                "OverrideType": 1,
+                "Overrides": [
+                    {
+                        "Resource": "240639a2-4d75-5506-54b1-717c6d15abc0",
+                        "Slot": "",
+                        "Type": "Visual"
+                    }
+                ]
+            },
+            {
+                "AnimationTag": "36be18ba-23db-4dff-bfa6-ae105ce43144",
+                "OverrideType": 1,
+                "Overrides": [
+                    {
+                        "Resource": "fc1cd3a9-6dd6-766e-5edb-3ce46e002535",
+                        "Slot": "",
+                        "Type": "Visual"
+                    }
+                ]
+            },
+            {
+                "AnimationTag": "e8b1eab0-ef11-40a2-8a0b-cee8d062bf2a",
+                "OverrideType": 1,
+                "Overrides": [
+                    {
+                        "Resource": "673ce226-b474-afc1-84c1-e1c4d9b65f66",
+                        "Slot": "",
+                        "Type": "Visual"
+                    }
+                ]
+            },
+            {
+                "AnimationTag": "784001e2-c96d-4153-beb6-2adbef5abc92",
+                "OverrideType": 1,
+                "Overrides": [
+                    {
+                        "Resource": "e59a4d27-1b0f-5ca5-22a4-f6614a0a7903",
+                        "Slot": "",
+                        "Type": "Visual"
+                    }
+                ]
+            },
+            {
+                "AnimationTag": "b4225a4b-4bbe-4d97-9e3c-4719dbd1487c",
+                "OverrideType": 1,
+                "Overrides": [
+                    {
+                        "Resource": "b9171c41-1607-a696-afd6-93b9bfb8cc01",
+                        "Slot": "",
+                        "Type": "Visual"
+                    }
+                ]
+            },
+            {
+                "AnimationTag": "a865965f-501b-46e9-9eaa-7748e8c04d09",
+                "OverrideType": 1,
+                "Overrides": [
+                    {
+                        "Resource": "014a118b-a836-d13d-dfbf-b137376fb46d",
+                        "Slot": "",
+                        "Type": "Visual"
+                    }
+                ]
+            },
+            {
+                "AnimationTag": "92cd50b6-eb1b-4824-8adb-853e90c34c90",
+                "OverrideType": 0,
+                "Overrides": [
+                    {
+                        "Resource": "029a1e53-72b2-5efa-c9c3-6d5db4749c67",
+                        "Slot": "",
+                        "Type": "Visual"
+                    }
+                ]
+            },
+            {
+                "AnimationTag": "d8cadb42-0ff9-4049-afaf-e5d78d06a399",
+                "OverrideType": 0,
+                "Overrides": [
+                    {
+                        "Resource": "34e469eb-eb33-100f-4c4c-0f56aefb8888",
+                        "Slot": "",
+                        "Type": "Visual"
+                    }
+                ]
+            },
+            {
+                "AnimationTag": "c4598bdb-fc07-40dd-a62c-90cc138bd76f",
+                "OverrideType": 1,
+                "Overrides": [
+                    {
+                        "Resource": "e8fd01e4-5c3e-a409-ae11-4c773a75d98c",
+                        "Slot": "",
+                        "Type": "Visual"
+                    }
+                ]
+            },
+            {
+                "AnimationTag": "aafbe780-d237-416e-9d05-e03070c9dbee",
+                "OverrideType": 0,
+                "Overrides": [
+                    {
+                        "Resource": "9dd2f914-916e-5089-64c2-b1c5091382dd",
+                        "Slot": "",
+                        "Type": "Visual"
+                    }
+                ]
+            },
+            {
+                "AnimationTag": "3c3eb687-1e1b-468e-afd3-3b9ea6576304",
+                "OverrideType": 0,
+                "Overrides": [
+                    {
+                        "Resource": "d26e6aa9-fb65-3bc2-f03b-18606ceeb8d4",
+                        "Slot": "",
+                        "Type": "Visual"
+                    }
+                ]
+            },
+            {
+                "AnimationTag": "a363025f-9037-47c5-9a8b-5fc24922ece4",
+                "OverrideType": 0,
+                "Overrides": [
+                    {
+                        "Resource": "d3652970-e1e7-22ae-1f23-bb447f093933",
+                        "Slot": "",
+                        "Type": "Visual"
+                    }
+                ]
+            },
+            {
+                "AnimationTag": "f9448523-02e4-4117-b437-b1761e39f487",
+                "OverrideType": 0,
+                "Overrides": [
+                    {
+                        "Resource": "ae996c12-9f93-655f-6f04-f7bec8cef6eb",
+                        "Slot": "",
+                        "Type": "Visual"
+                    }
+                ]
+            },
+            {
+                "AnimationTag": "3cc790a2-c184-442f-bfc1-3d5a744289b9",
+                "OverrideType": 0,
+                "Overrides": [
+                    {
+                        "Resource": "cc0d5166-5586-2439-2799-ef7eac23f649",
+                        "Slot": "",
+                        "Type": "Visual"
+                    }
+                ]
+            },
+            {
+                "AnimationTag": "d559367e-4d27-402a-8898-a72fd5f20c8b",
+                "OverrideType": 0,
+                "Overrides": [
+                    {
+                        "Resource": "52dd3813-d47c-b3e1-75e3-19451ae43503",
+                        "Slot": "",
+                        "Type": "Visual"
+                    }
+                ]
+            },
+            {
+                "AnimationTag": "0ba11d9c-02f7-4285-ac06-9f50a84902be",
+                "OverrideType": 0,
+                "Overrides": [
+                    {
+                        "Resource": "1e5aa8d8-d287-0a16-5269-63a7bc90094c",
+                        "Slot": "",
+                        "Type": "Visual"
+                    }
+                ]
+            }
+        ],
+        "Waterfall": [
+            {
+                "Resource": "866afd96-0f2e-59d3-ec9f-270d56d4fd4e",
+                "Slot": "1",
+                "Type": "VisualSet"
+            },
+            {
+                "Resource": "6a7868fe-33ab-1650-7cbd-ac8cc512ee79",
+                "Slot": "1",
+                "Type": "VisualSet"
+            },
+            {
+                "Resource": "c465d4f0-e0b8-6f59-1515-8ee33a15669e",
+                "Slot": "1",
+                "Type": "VisualSet"
+            },
+            {
+                "Resource": "ce353867-842b-449c-cbaf-6925eeda0fa6",
+                "Slot": "",
+                "Type": "Visual"
+            },
+            {
+                "Resource": "e005b1e4-c76c-4c92-9a12-569c324c7ca7",
+                "Slot": "",
+                "Type": "Visual"
+            },
+            {
+                "Resource": "b756fca1-81b7-66c5-1609-f854a1f7923d",
+                "Slot": "",
+                "Type": "Visual"
+            },
+            {
+                "Resource": "f762061c-f010-f185-c633-5d0aff8320f8",
+                "Slot": "",
+                "Type": "Visual"
+            },
+            {
+                "Resource": "608fad95-e71a-5c83-27a4-ffa06c59dd0e",
+                "Slot": "",
+                "Type": "Visual"
+            },
+            {
+                "Resource": "311dae8b-42d4-25e2-3b29-845847509494",
+                "Slot": "",
+                "Type": "Visual"
+            },
+            {
+                "Resource": "da29fce1-056a-4f86-b110-d61679c21238",
+                "Slot": "",
+                "Type": "Visual"
+            },
+            {
+                "Resource": "8405f6a4-e695-c33a-d482-a4d9a472599e",
+                "Slot": "",
+                "Type": "Visual"
+            },
+            {
+                "Resource": "324bfb20-54e4-01c5-8a11-849c3352a6a3",
+                "Slot": "",
+                "Type": "Visual"
+            }
+        ]
+    },
+    "AttitudesToPlayers": {
+        "Attitudes": {}
+    },
+    "AttributeFlags": {
+        "AttributeFlags": 524288
+    },
+    "AvailableLevel": {
+        "Level": 1
+    },
+    "Avatar": {},
+    "Background": {
+        "Background": "20d865ea-03bd-47bf-97d3-777e1b36b073"
+    },
+    "BackgroundPassives": {
+        "field_18": [
+            {
+                "Passive": 563,
+                "field_0": 949649392
+            }
+        ]
+    },
+    "BackgroundTag": {
+        "Tags": [
+            "ce00b3b6-238e-4524-851b-3d1f2d2b1189"
+        ]
+    },
+    "BaseHp": {
+        "Vitality": 1,
+        "VitalityBoost": 0
+    },
+    "BaseStats": {
+        "BaseAbilities": [
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    "BodyType": {
+        "BodyType": 1,
+        "BodyType2": 1
+    },
+    "BoostsContainer": {
+        "Boosts": [
+            {
+                "Boosts": [
+                    "Entity (0200000100000818)",
+                    "Entity (0200000100000819)",
+                    "Entity (020000010000081a)",
+                    "Entity (020000010000081b)",
+                    "Entity (020000010000081c)",
+                    "Entity (020000010000081d)",
+                    "Entity (02000001000015ba)",
+                    "Entity (02000001000015bb)"
+                ],
+                "Type": "Ability"
+            },
+            {
+                "Boosts": [
+                    "Entity (02000001000008c7)",
+                    "Entity (0200000100000dbd)"
+                ],
+                "Type": "UnlockSpell"
+            },
+            {
+                "Boosts": [
+                    "Entity (0200000100000dbc)"
+                ],
+                "Type": "CriticalHit"
+            },
+            {
+                "Boosts": [
+                    "Entity (02000001000015ac)",
+                    "Entity (02000001000015be)",
+                    "Entity (02000001000015c1)"
+                ],
+                "Type": "ActionResource"
+            },
+            {
+                "Boosts": [
+                    "Entity (0200000100000def)"
+                ],
+                "Type": "BlockRegainHP"
+            },
+            {
+                "Boosts": [
+                    "Entity (02000001000015ad)",
+                    "Entity (02000001000015ae)",
+                    "Entity (02000001000015bc)",
+                    "Entity (02000001000015bd)",
+                    "Entity (02000001000015bf)",
+                    "Entity (02000001000015c0)",
+                    "Entity (0200000100001e64)",
+                    "Entity (0200000100001e63)"
+                ],
+                "Type": "ProficiencyBonus"
+            },
+            {
+                "Boosts": [
+                    "Entity (02000001000015af)",
+                    "Entity (02000001000015b0)",
+                    "Entity (02000001000015b1)",
+                    "Entity (02000001000015b2)",
+                    "Entity (02000001000015b3)",
+                    "Entity (02000001000015b4)",
+                    "Entity (02000001000015b5)",
+                    "Entity (02000001000015b6)",
+                    "Entity (02000001000015b7)",
+                    "Entity (02000001000015b8)",
+                    "Entity (02000001000015b9)",
+                    "Entity (0200000100001e6b)",
+                    "Entity (0200000100001e6c)",
+                    "Entity (0200000100001e6d)",
+                    "Entity (0200000100001e6e)"
+                ],
+                "Type": "Proficiency"
+            },
+            {
+                "Boosts": [
+                    "Entity (0200000100001e62)"
+                ],
+                "Type": "DownedStatus"
+            },
+            {
+                "Boosts": [
+                    "Entity (0200000100001e73)"
+                ],
+                "Type": "Tag"
+            },
+            {
+                "Boosts": [
+                    "Entity (02000001000021d9)"
+                ],
+                "Type": "UnlockInterrupt"
+            },
+            {
+                "Boosts": [
+                    "Entity (0200000100001e71)",
+                    "Entity (0200000100001e72)",
+                    "Entity (0200000100001e74)"
+                ],
+                "Type": "StatusImmunity"
+            },
+            {
+                "Boosts": [
+                    "Entity (0200000100001e6f)"
+                ],
+                "Type": "DarkvisionRangeMin"
+            },
+            {
+                "Boosts": [
+                    "Entity (0200000100001e70)"
+                ],
+                "Type": "ActiveCharacterLight"
+            }
+        ]
+    },
+    "Bound": {
+        "Bound": {
+            "AIBounds": {
+                "0": {
+                    "AiType": 2,
+                    "Height": 2.0,
+                    "Max": [
+                        0.81502002477645874,
+                        1.9335399866104126,
+                        0.1260170042514801
+                    ],
+                    "Min": [
+                        -0.81502002477645874,
+                        -0.0013587500434368849,
+                        -0.21171699464321136
+                    ],
+                    "Radius": 0.24899999797344208,
+                    "Radius2": 0.24899999797344208,
+                    "Type": 1073741824,
+                    "field_28": 0,
+                    "field_2A": 0
+                },
+                "17921": {
+                    "AiType": 2,
+                    "Height": 2.0,
+                    "Max": [
+                        0.81502002477645874,
+                        1.9335399866104126,
+                        0.1260170042514801
+                    ],
+                    "Min": [
+                        -0.81502002477645874,
+                        -0.0013587500434368849,
+                        -0.21171699464321136
+                    ],
+                    "Radius": 0.20000000298023224,
+                    "Radius2": 0.20000000298023224,
+                    "Type": 1073741824,
+                    "field_28": 1,
+                    "field_2A": 0
+                }
+            },
+            "Entity": "Entity (0200000100000076)",
+            "Flags": 108,
+            "Flags2": 34,
+            "RotationQuat": [
+                0.0,
+                0.99290084838867188,
+                0.0,
+                -0.11894511431455612
+            ],
+            "Scale": 1.0,
+            "SomeRefCount": 0,
+            "Translate": [
+                56.25,
+                17.5693359375,
+                -416.25
+            ],
+            "TranslateOverride": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "field_28": [
+                3735616,
+                1561706665,
+                3670079,
+                1561706665,
+                3735615,
+                1561706665,
+                3801151,
+                1561706665,
+                3670080
+            ],
+            "field_78": 103,
+            "field_89": 0,
+            "field_8C": ""
+        }
+    },
+    "CCLevelUp": {
+        "LevelUps": [
+            {
+                "Abilities": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "AccessorySet": "f73c803d-7b7e-4703-9004-382b8c588b70",
+                "Class": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                "Feat": "00000000-0000-0000-0000-000000000000",
+                "Spells": [],
+                "SubClass": "00000000-0000-0000-0000-000000000000",
+                "Upgrades": {
+                    "AbilityBonuses": [
+                        {
+                            "AbilityBonus": "b9149c8e-52c8-46e5-9cb6-fc39301c05fe",
+                            "BonusAmounts": [
+                                2,
+                                1
+                            ],
+                            "BonusType": "AbilityBonus",
+                            "Bonuses": [
+                                "Wisdom",
+                                "Constitution"
+                            ],
+                            "Class": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                            "Level": 1,
+                            "Multiclass": false,
+                            "Subclass": "00000000-0000-0000-0000-000000000000",
+                            "Type": 3,
+                            "field_30": 0,
+                            "field_80": -1
+                        }
+                    ],
+                    "Equipment": [],
+                    "Feats": [],
+                    "Passives": [],
+                    "SkillBonuses": [],
+                    "Skills": [
+                        {
+                            "Class": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                            "Level": 1,
+                            "Multiclass": false,
+                            "Proficiencies": [
+                                "AnimalHandling",
+                                "Nature"
+                            ],
+                            "Skill": "a3e28a89-3c36-4516-a1ed-c8061ba7f166",
+                            "Subclass": "00000000-0000-0000-0000-000000000000",
+                            "Type": 3,
+                            "field_30": 0,
+                            "field_60": "",
+                            "field_80": -1
+                        }
+                    ],
+                    "Spells": [
+                        {
+                            "Class": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                            "Level": 1,
+                            "Multiclass": false,
+                            "ReplaceSpells": [],
+                            "SelectorId": "",
+                            "SpellList": "b8faf12f-ca42-45c0-84f8-6951b526182a",
+                            "Spells": [
+                                "Shout_Shillelagh",
+                                "Target_ThornWhip"
+                            ],
+                            "Subclass": "00000000-0000-0000-0000-000000000000",
+                            "Type": 3,
+                            "field_30": 0
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "CCPrepareSpell": {
+        "Spells": [
+            {
+                "OriginatorPrototype": "Projectile_IceKnife",
+                "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                "SourceType": "Progression0"
+            },
+            {
+                "OriginatorPrototype": "Target_Entangle",
+                "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                "SourceType": "Progression0"
+            },
+            {
+                "OriginatorPrototype": "Target_Goodberry",
+                "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                "SourceType": "Progression0"
+            },
+            {
+                "OriginatorPrototype": "Target_HealingWord",
+                "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                "SourceType": "Progression0"
+            }
+        ]
+    },
+    "CCState": {
+        "Canceled": false,
+        "HasDummy": false,
+        "field_2": 0
+    },
+    "CanBeDisarmed": {
+        "Flags": 65535
+    },
+    "CanBeLooted": {
+        "Flags": 0
+    },
+    "CanBeWielded": {},
+    "CanDeflectProjectiles": {
+        "Flags": 0
+    },
+    "CanDoActions": {
+        "Flags": 65535
+    },
+    "CanDoRest": {
+        "Flags": [
+            "CanShortRest",
+            "CanLongRest"
+        ],
+        "RestErrorFlags1": [],
+        "RestErrorFlags2": []
+    },
+    "CanEnterChasm": {
+        "CanEnter": true
+    },
+    "CanInteract": {
+        "Flags": 65535
+    },
+    "CanModifyHealth": {
+        "Flags": 65535
+    },
+    "CanMove": {
+        "Flags": 65535
+    },
+    "CanSeeThrough": {},
+    "CanSense": {
+        "Flags": 65527
+    },
+    "CanSpeak": {
+        "Flags": 65535
+    },
+    "CanTravel": {
+        "ErrorFlags": [
+            "CannotFastTravel"
+        ],
+        "Flags": [],
+        "field_2": 1
+    },
+    "CanTriggerRandomCasts": {},
+    "CharacterCreationAppearance": {
+        "AdditionalChoices": [
+            0,
+            1065353216,
+            0,
+            1065353216
+        ],
+        "Elements": [
+            {
+                "Color": "91408f62-3631-4374-98c2-01898dcab051",
+                "ColorIntensity": 1.0,
+                "GlossyTint": 1.0,
+                "Material": "d9fefbed-b951-4b71-bcc6-5d8a23ae9753",
+                "MetallicTint": 0
+            },
+            {
+                "Color": "e8ca07c7-96cb-4fc6-872b-6c4fb0221c93",
+                "ColorIntensity": 0.89999997615814209,
+                "GlossyTint": 1.0,
+                "Material": "66470b0a-6d9a-4b21-a3d7-d8f7179eb24d",
+                "MetallicTint": 1065353216
+            },
+            {
+                "Color": "00000000-0000-0000-0000-000000000000",
+                "ColorIntensity": 1.0,
+                "GlossyTint": 1.0,
+                "Material": "f03b33ae-5d47-4cb5-80bc-ea06a3c55c96",
+                "MetallicTint": 0
+            },
+            {
+                "Color": "3b32ac3f-8601-4cbf-8e82-0649bfe549e9",
+                "ColorIntensity": 1.0,
+                "GlossyTint": 1.0,
+                "Material": "dbf4ab14-44c2-4ef9-b8be-35d1dfdd1c0f",
+                "MetallicTint": 0
+            },
+            {
+                "Color": "e9d45ccc-1066-495d-87ba-11814234cb59",
+                "ColorIntensity": 0.93444514274597168,
+                "GlossyTint": 1.0,
+                "Material": "32f58f2c-525d-4b09-86ba-0c6cb0baca28",
+                "MetallicTint": 0
+            },
+            {
+                "Color": "00000000-0000-0000-0000-000000000000",
+                "ColorIntensity": 1.0,
+                "GlossyTint": 1.0,
+                "Material": "5c6acf4c-0438-48ab-9e04-4dee7e88f8f7",
+                "MetallicTint": 0
+            },
+            {
+                "Color": "1d0770ca-9c92-4895-a924-bcffccb3eb63",
+                "ColorIntensity": 1.0,
+                "GlossyTint": 0.51890206336975098,
+                "Material": "3c642923-f0ec-4df2-a918-8ac63d7b8d26",
+                "MetallicTint": 1060178458
+            },
+            {
+                "Color": "eea3b7f0-bedb-4e93-8525-280ea8a6e9e1",
+                "ColorIntensity": 0.0,
+                "GlossyTint": 1.0,
+                "Material": "23d0f6e2-8491-4e3d-bfd5-73b8e671f80c",
+                "MetallicTint": 0
+            },
+            {
+                "Color": "ddafe09b-ab1c-4d4a-ba61-3d238fd08d50",
+                "ColorIntensity": 0.0,
+                "GlossyTint": 1.0,
+                "Material": "292b191c-7dc3-4bc6-8e92-5b01ff5cf6b3",
+                "MetallicTint": 0
+            }
+        ],
+        "EyeColor": "588b8a6f-c085-41dd-a20a-40e5bb55ed12",
+        "HairColor": "8119ff9a-3d08-4ef9-aff1-caac3ba176c2",
+        "SecondEyeColor": "65e25e04-ee1a-4226-8fb0-27228ede00c1",
+        "SkinColor": "84f612c9-eba2-42d0-a056-9aa096351160",
+        "Visuals": [
+            "421e9b46-07c4-4b1e-a420-046e0630b693",
+            "fcf86b01-766b-4182-abbb-84b72b3d378c",
+            "644a0510-5dbc-43af-bc60-5069fdbd9f18",
+            "9c9fa6d8-99d0-474d-a8e9-ff58bab5e12f"
+        ]
+    },
+    "CharacterCreationStats": {
+        "Abilities": [
+            0,
+            -12,
+            22,
+            3,
+            2,
+            7,
+            4
+        ],
+        "BodyShape": 0,
+        "BodyType": 1,
+        "Name": "Thorn",
+        "Race": "6c038dcb-7eb5-431d-84f8-cecfaf1c0c5a",
+        "SubRace": "a459ba68-a9ec-4c8e-b127-602615f5b4c0",
+        "field_5C": 2
+    },
+    "ClassTag": {
+        "Tags": [
+            "44ac4317-4d38-4d28-80e2-94024c6e42f0"
+        ]
+    },
+    "Classes": {
+        "Classes": [
+            {
+                "ClassUUID": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                "Level": 1,
+                "SubClassUUID": "00000000-0000-0000-0000-000000000000"
+            }
+        ]
+    },
+    "ClientControl": {},
+    "CombatParticipant": {
+        "AiHint": "00000000-0000-0000-0000-000000000000",
+        "CombatGroupId": "",
+        "CombatHandle": null,
+        "Flags": [
+            "CanJoinCombat",
+            "CanFight"
+        ],
+        "InitiativeRoll": -100
+    },
+    "Concentration": {
+        "Caster": "Entity (0200000100000076)",
+        "SpellId": {
+            "OriginatorPrototype": "",
+            "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+            "Prototype": "",
+            "SourceType": "Unknown17"
+        },
+        "Targets": []
+    },
+    "CustomIcon": {},
+    "CustomName": {
+        "Name": "Thorn"
+    },
+    "Darkness": {
+        "Obscurity": 2,
+        "Sneaking": 1,
+        "field_2": 0,
+        "field_3": 0,
+        "field_4": 0,
+        "field_8": 0.0,
+        "field_C": 0.0
+    },
+    "Data": {
+        "StatsId": "HeroElfFemale",
+        "StepsType": 0,
+        "Weight": 75000
+    },
+    "DialogState": {
+        "field_0": 0,
+        "field_1": 0,
+        "field_2": 0,
+        "field_4": 0,
+        "field_8": 0
+    },
+    "DifficultyCheck": {
+        "SpellDC": 1114521408,
+        "field_4": 563,
+        "field_8": 11
+    },
+    "DisplayName": {
+        "NameKey": {
+            "ArgumentString": {
+                "Handle": "ls::TranslatedStringRepository::s_HandleUnknown",
+                "Version": 0
+            },
+            "Handle": {
+                "Handle": "ResStr_2726791294",
+                "Version": 0
+            }
+        },
+        "UnknownKey": {
+            "ArgumentString": {
+                "Handle": "ls::TranslatedStringRepository::s_HandleUnknown",
+                "Version": 0
+            },
+            "Handle": {
+                "Handle": "ls::TranslatedStringRepository::s_HandleUnknown",
+                "Version": 0
+            }
+        }
+    },
+    "DualWielding": {
+        "DisableDualWielding": false,
+        "Melee": false,
+        "MeleeUI": false,
+        "Ranged": false,
+        "RangedUI": false,
+        "field_1A": 0,
+        "field_1D": 0
+    },
+    "DynamicAnimationTags": {
+        "Tags": [
+            {
+                "Tag": "20d865ea-03bd-47bf-97d3-777e1b36b073",
+                "field_10": 0
+            },
+            {
+                "Tag": "a459ba68-a9ec-4c8e-b127-602615f5b4c0",
+                "field_10": 0
+            },
+            {
+                "Tag": "899d275e-9893-490a-9cd5-be856794929f",
+                "field_10": 0
+            },
+            {
+                "Tag": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                "field_10": 0
+            },
+            {
+                "Tag": "6c038dcb-7eb5-431d-84f8-cecfaf1c0c5a",
+                "field_10": 0
+            },
+            {
+                "Tag": "5af0f42c-9b32-4c3c-b108-46c44196081b",
+                "field_10": 0
+            }
+        ]
+    },
+    "EncumbranceState": {
+        "State": 0
+    },
+    "EncumbranceStats": {
+        "EncumberedWeight": 40000,
+        "HeavilyEncumberedWeight": 40000,
+        "UnencumberedWeight": 40000
+    },
+    "EocLevel": {
+        "Level": 1
+    },
+    "EquipmentVisual": {
+        "State": 2
+    },
+    "Experience": {
+        "CurrentLevelExperience": 0,
+        "NextLevelExperience": 0,
+        "SomeExperience": 0,
+        "TotalExperience": 0,
+        "field_28": 0
+    },
+    "Expertise": {
+        "Expertise": []
+    },
+    "FTBParticipant": {
+        "field_18": null
+    },
+    "FTBRespect": {},
+    "FTBZoneBlockReason": {
+        "Reason": 0
+    },
+    "Faction": {
+        "field_0": "Entity (0200000100000076)",
+        "field_18": "6545a015-1b3d-66a4-6a0e-6ec62065cdb7",
+        "field_28": null,
+        "field_8": "6545a015-1b3d-66a4-6a0e-6ec62065cdb7"
+    },
+    "FleeCapability": {
+        "CurrentFleeDistance": 0.0,
+        "Flags": [],
+        "FleeDistance": 0.0
+    },
+    "GameObjectVisual": {
+        "Icon": "69c6d55e-2faa-16a0-f0bd-7e3dce4529cf-_(Icon_Elf_Female)",
+        "RootTemplateId": "50e44ccc-28a0-44eb-998e-f085f7fe8f7c",
+        "RootTemplateType": 0,
+        "Scale": 1.0,
+        "Type": 0
+    },
+    "God": {
+        "God": "00000000-0000-0000-0000-000000000000"
+    },
+    "GodTag": {
+        "Tags": []
+    },
+    "HealBlock": {},
+    "Health": {
+        "Hp": 9,
+        "MaxHp": 9,
+        "MaxTemporaryHp": 0,
+        "TemporaryHp": 0,
+        "field_10": "00000000-0000-0000-0000-000000000000",
+        "field_20": 0
+    },
+    "Hearing": {
+        "Hearing": 18.0
+    },
+    "HotbarContainer": {
+        "ActiveContainer": "DefaultBarContainer",
+        "Containers": {
+            "DefaultBarContainer": [
+                {
+                    "Elements": [
+                        {
+                            "IsNew": false,
+                            "Item": null,
+                            "Passive": "",
+                            "Slot": 0,
+                            "SpellId": {
+                                "OriginatorPrototype": "Projectile_Jump",
+                                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                                "Prototype": "Projectile_Jump",
+                                "SourceType": "SpellSet"
+                            }
+                        },
+                        {
+                            "IsNew": false,
+                            "Item": null,
+                            "Passive": "",
+                            "Slot": 1,
+                            "SpellId": {
+                                "OriginatorPrototype": "Target_Dip",
+                                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                                "Prototype": "Target_Dip",
+                                "SourceType": "SpellSet"
+                            }
+                        },
+                        {
+                            "IsNew": false,
+                            "Item": null,
+                            "Passive": "",
+                            "Slot": 2,
+                            "SpellId": {
+                                "OriginatorPrototype": "Shout_Hide",
+                                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                                "Prototype": "Shout_Hide",
+                                "SourceType": "SpellSet"
+                            }
+                        },
+                        {
+                            "IsNew": false,
+                            "Item": null,
+                            "Passive": "",
+                            "Slot": 3,
+                            "SpellId": {
+                                "OriginatorPrototype": "Target_Shove",
+                                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                                "Prototype": "Target_Shove",
+                                "SourceType": "SpellSet"
+                            }
+                        },
+                        {
+                            "IsNew": false,
+                            "Item": null,
+                            "Passive": "",
+                            "Slot": 4,
+                            "SpellId": {
+                                "OriginatorPrototype": "Throw_Throw",
+                                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                                "Prototype": "Throw_Throw",
+                                "SourceType": "SpellSet"
+                            }
+                        },
+                        {
+                            "IsNew": false,
+                            "Item": null,
+                            "Passive": "",
+                            "Slot": 5,
+                            "SpellId": {
+                                "OriginatorPrototype": "Throw_ImprovisedWeapon",
+                                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                                "Prototype": "Throw_ImprovisedWeapon",
+                                "SourceType": "SpellSet"
+                            }
+                        },
+                        {
+                            "IsNew": false,
+                            "Item": null,
+                            "Passive": "",
+                            "Slot": 6,
+                            "SpellId": {
+                                "OriginatorPrototype": "Shout_Dash",
+                                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                                "Prototype": "Shout_Dash",
+                                "SourceType": "SpellSet"
+                            }
+                        },
+                        {
+                            "IsNew": false,
+                            "Item": null,
+                            "Passive": "",
+                            "Slot": 7,
+                            "SpellId": {
+                                "OriginatorPrototype": "Target_Help",
+                                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                                "Prototype": "Target_Help",
+                                "SourceType": "SpellSet"
+                            }
+                        },
+                        {
+                            "IsNew": false,
+                            "Item": null,
+                            "Passive": "",
+                            "Slot": 8,
+                            "SpellId": {
+                                "OriginatorPrototype": "Shout_Disengage",
+                                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                                "Prototype": "Shout_Disengage",
+                                "SourceType": "SpellSet"
+                            }
+                        },
+                        {
+                            "IsNew": false,
+                            "Item": null,
+                            "Passive": "",
+                            "Slot": 9,
+                            "SpellId": {
+                                "OriginatorPrototype": "Target_MainHandAttack",
+                                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                                "Prototype": "Target_MainHandAttack",
+                                "SourceType": "WeaponAttack"
+                            }
+                        },
+                        {
+                            "IsNew": false,
+                            "Item": null,
+                            "Passive": "",
+                            "Slot": 10,
+                            "SpellId": {
+                                "OriginatorPrototype": "Target_Topple",
+                                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                                "Prototype": "Target_Topple",
+                                "SourceType": "Boost"
+                            }
+                        },
+                        {
+                            "IsNew": false,
+                            "Item": null,
+                            "Passive": "",
+                            "Slot": 11,
+                            "SpellId": {
+                                "OriginatorPrototype": "Target_TCP_SummonChest",
+                                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                                "Prototype": "Target_TCP_SummonChest",
+                                "SourceType": "Boost"
+                            }
+                        }
+                    ],
+                    "Height": 2,
+                    "Index": 0,
+                    "Width": 8,
+                    "field_1": 0,
+                    "field_20": ""
+                },
+                {
+                    "Elements": [
+                        {
+                            "IsNew": false,
+                            "Item": null,
+                            "Passive": "",
+                            "Slot": 0,
+                            "SpellId": {
+                                "OriginatorPrototype": "Target_HealingWord",
+                                "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                                "Prototype": "Target_HealingWord",
+                                "SourceType": "Progression0"
+                            }
+                        },
+                        {
+                            "IsNew": false,
+                            "Item": null,
+                            "Passive": "",
+                            "Slot": 1,
+                            "SpellId": {
+                                "OriginatorPrototype": "Target_Goodberry",
+                                "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                                "Prototype": "Target_Goodberry",
+                                "SourceType": "Progression0"
+                            }
+                        },
+                        {
+                            "IsNew": false,
+                            "Item": null,
+                            "Passive": "",
+                            "Slot": 2,
+                            "SpellId": {
+                                "OriginatorPrototype": "Target_Entangle",
+                                "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                                "Prototype": "Target_Entangle",
+                                "SourceType": "Progression0"
+                            }
+                        },
+                        {
+                            "IsNew": false,
+                            "Item": null,
+                            "Passive": "",
+                            "Slot": 3,
+                            "SpellId": {
+                                "OriginatorPrototype": "Projectile_IceKnife",
+                                "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                                "Prototype": "Projectile_IceKnife",
+                                "SourceType": "Progression0"
+                            }
+                        },
+                        {
+                            "IsNew": false,
+                            "Item": null,
+                            "Passive": "",
+                            "Slot": 4,
+                            "SpellId": {
+                                "OriginatorPrototype": "Target_ThornWhip",
+                                "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                                "Prototype": "Target_ThornWhip",
+                                "SourceType": "Progression0"
+                            }
+                        },
+                        {
+                            "IsNew": false,
+                            "Item": null,
+                            "Passive": "",
+                            "Slot": 5,
+                            "SpellId": {
+                                "OriginatorPrototype": "Shout_Shillelagh",
+                                "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                                "Prototype": "Shout_Shillelagh",
+                                "SourceType": "Progression0"
+                            }
+                        }
+                    ],
+                    "Height": 2,
+                    "Index": 1,
+                    "Width": 6,
+                    "field_1": 0,
+                    "field_20": ""
+                },
+                {
+                    "Elements": [
+                        {
+                            "IsNew": false,
+                            "Item": "Entity (0200000100000217)",
+                            "Passive": "",
+                            "Slot": 0,
+                            "SpellId": {
+                                "OriginatorPrototype": "",
+                                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                                "Prototype": "",
+                                "SourceType": "Unknown17"
+                            }
+                        },
+                        {
+                            "IsNew": false,
+                            "Item": "Entity (02000001000002b5)",
+                            "Passive": "",
+                            "Slot": 1,
+                            "SpellId": {
+                                "OriginatorPrototype": "",
+                                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                                "Prototype": "",
+                                "SourceType": "Unknown17"
+                            }
+                        },
+                        {
+                            "IsNew": false,
+                            "Item": "Entity (020000010000022b)",
+                            "Passive": "",
+                            "Slot": 2,
+                            "SpellId": {
+                                "OriginatorPrototype": "",
+                                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                                "Prototype": "",
+                                "SourceType": "Unknown17"
+                            }
+                        }
+                    ],
+                    "Height": 2,
+                    "Index": 2,
+                    "Width": 2,
+                    "field_1": 0,
+                    "field_20": ""
+                },
+                {
+                    "Elements": [
+                        {
+                            "IsNew": false,
+                            "Item": null,
+                            "Passive": "NonLethal",
+                            "Slot": 0,
+                            "SpellId": {
+                                "OriginatorPrototype": "",
+                                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                                "Prototype": "",
+                                "SourceType": "Unknown17"
+                            }
+                        }
+                    ],
+                    "Height": 2,
+                    "Index": 3,
+                    "Width": 16,
+                    "field_1": 0,
+                    "field_20": ""
+                },
+                {
+                    "Elements": [],
+                    "Height": 2,
+                    "Index": 4,
+                    "Width": 2,
+                    "field_1": 0,
+                    "field_20": ""
+                },
+                {
+                    "Elements": [],
+                    "Height": 2,
+                    "Index": 5,
+                    "Width": 16,
+                    "field_1": 0,
+                    "field_20": ""
+                },
+                {
+                    "Elements": [
+                        {
+                            "IsNew": false,
+                            "Item": null,
+                            "Passive": "",
+                            "Slot": 0,
+                            "SpellId": {
+                                "OriginatorPrototype": "Projectile_Jump",
+                                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                                "Prototype": "Projectile_Jump",
+                                "SourceType": "SpellSet"
+                            }
+                        },
+                        {
+                            "IsNew": false,
+                            "Item": null,
+                            "Passive": "",
+                            "Slot": 1,
+                            "SpellId": {
+                                "OriginatorPrototype": "Throw_Throw",
+                                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                                "Prototype": "Throw_Throw",
+                                "SourceType": "SpellSet"
+                            }
+                        },
+                        {
+                            "IsNew": false,
+                            "Item": null,
+                            "Passive": "",
+                            "Slot": 2,
+                            "SpellId": {
+                                "OriginatorPrototype": "Target_Shove",
+                                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                                "Prototype": "Target_Shove",
+                                "SourceType": "SpellSet"
+                            }
+                        },
+                        {
+                            "IsNew": false,
+                            "Item": null,
+                            "Passive": "",
+                            "Slot": 3,
+                            "SpellId": {
+                                "OriginatorPrototype": "Target_Dip",
+                                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                                "Prototype": "Target_Dip",
+                                "SourceType": "SpellSet"
+                            }
+                        },
+                        {
+                            "IsNew": false,
+                            "Item": null,
+                            "Passive": "",
+                            "Slot": 4,
+                            "SpellId": {
+                                "OriginatorPrototype": "Throw_ImprovisedWeapon",
+                                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                                "Prototype": "Throw_ImprovisedWeapon",
+                                "SourceType": "SpellSet"
+                            }
+                        },
+                        {
+                            "IsNew": false,
+                            "Item": null,
+                            "Passive": "",
+                            "Slot": 5,
+                            "SpellId": {
+                                "OriginatorPrototype": "Shout_Dash",
+                                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                                "Prototype": "Shout_Dash",
+                                "SourceType": "SpellSet"
+                            }
+                        },
+                        {
+                            "IsNew": false,
+                            "Item": null,
+                            "Passive": "",
+                            "Slot": 6,
+                            "SpellId": {
+                                "OriginatorPrototype": "Shout_Hide",
+                                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                                "Prototype": "Shout_Hide",
+                                "SourceType": "SpellSet"
+                            }
+                        },
+                        {
+                            "IsNew": false,
+                            "Item": null,
+                            "Passive": "",
+                            "Slot": 7,
+                            "SpellId": {
+                                "OriginatorPrototype": "Shout_Disengage",
+                                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                                "Prototype": "Shout_Disengage",
+                                "SourceType": "SpellSet"
+                            }
+                        },
+                        {
+                            "IsNew": false,
+                            "Item": null,
+                            "Passive": "",
+                            "Slot": 8,
+                            "SpellId": {
+                                "OriginatorPrototype": "Target_Help",
+                                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                                "Prototype": "Target_Help",
+                                "SourceType": "SpellSet"
+                            }
+                        }
+                    ],
+                    "Height": 1,
+                    "Index": 0,
+                    "Width": 12,
+                    "field_1": 1,
+                    "field_20": ""
+                },
+                {
+                    "Elements": [
+                        {
+                            "IsNew": false,
+                            "Item": null,
+                            "Passive": "",
+                            "Slot": 0,
+                            "SpellId": {
+                                "OriginatorPrototype": "Target_HealingWord",
+                                "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                                "Prototype": "Target_HealingWord",
+                                "SourceType": "Progression0"
+                            }
+                        },
+                        {
+                            "IsNew": false,
+                            "Item": null,
+                            "Passive": "NonLethal",
+                            "Slot": 1,
+                            "SpellId": {
+                                "OriginatorPrototype": "",
+                                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                                "Prototype": "",
+                                "SourceType": "Unknown17"
+                            }
+                        },
+                        {
+                            "IsNew": false,
+                            "Item": null,
+                            "Passive": "",
+                            "Slot": 2,
+                            "SpellId": {
+                                "OriginatorPrototype": "Target_Goodberry",
+                                "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                                "Prototype": "Target_Goodberry",
+                                "SourceType": "Progression0"
+                            }
+                        },
+                        {
+                            "IsNew": false,
+                            "Item": null,
+                            "Passive": "",
+                            "Slot": 3,
+                            "SpellId": {
+                                "OriginatorPrototype": "Target_Entangle",
+                                "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                                "Prototype": "Target_Entangle",
+                                "SourceType": "Progression0"
+                            }
+                        },
+                        {
+                            "IsNew": false,
+                            "Item": null,
+                            "Passive": "",
+                            "Slot": 4,
+                            "SpellId": {
+                                "OriginatorPrototype": "Projectile_IceKnife",
+                                "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                                "Prototype": "Projectile_IceKnife",
+                                "SourceType": "Progression0"
+                            }
+                        },
+                        {
+                            "IsNew": false,
+                            "Item": null,
+                            "Passive": "",
+                            "Slot": 5,
+                            "SpellId": {
+                                "OriginatorPrototype": "Target_MainHandAttack",
+                                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                                "Prototype": "Target_MainHandAttack",
+                                "SourceType": "WeaponAttack"
+                            }
+                        },
+                        {
+                            "IsNew": false,
+                            "Item": null,
+                            "Passive": "",
+                            "Slot": 6,
+                            "SpellId": {
+                                "OriginatorPrototype": "Target_Topple",
+                                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                                "Prototype": "Target_Topple",
+                                "SourceType": "Boost"
+                            }
+                        },
+                        {
+                            "IsNew": false,
+                            "Item": null,
+                            "Passive": "",
+                            "Slot": 7,
+                            "SpellId": {
+                                "OriginatorPrototype": "Target_ThornWhip",
+                                "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                                "Prototype": "Target_ThornWhip",
+                                "SourceType": "Progression0"
+                            }
+                        },
+                        {
+                            "IsNew": false,
+                            "Item": null,
+                            "Passive": "",
+                            "Slot": 8,
+                            "SpellId": {
+                                "OriginatorPrototype": "Shout_Shillelagh",
+                                "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                                "Prototype": "Shout_Shillelagh",
+                                "SourceType": "Progression0"
+                            }
+                        },
+                        {
+                            "IsNew": false,
+                            "Item": null,
+                            "Passive": "",
+                            "Slot": 9,
+                            "SpellId": {
+                                "OriginatorPrototype": "Target_TCP_SummonChest",
+                                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                                "Prototype": "Target_TCP_SummonChest",
+                                "SourceType": "Boost"
+                            }
+                        }
+                    ],
+                    "Height": 1,
+                    "Index": 1,
+                    "Width": 12,
+                    "field_1": 1,
+                    "field_20": ""
+                },
+                {
+                    "Elements": [
+                        {
+                            "IsNew": false,
+                            "Item": "Entity (0200000100000217)",
+                            "Passive": "",
+                            "Slot": 0,
+                            "SpellId": {
+                                "OriginatorPrototype": "",
+                                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                                "Prototype": "",
+                                "SourceType": "Unknown17"
+                            }
+                        },
+                        {
+                            "IsNew": false,
+                            "Item": "Entity (02000001000002b5)",
+                            "Passive": "",
+                            "Slot": 1,
+                            "SpellId": {
+                                "OriginatorPrototype": "",
+                                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                                "Prototype": "",
+                                "SourceType": "Unknown17"
+                            }
+                        },
+                        {
+                            "IsNew": false,
+                            "Item": "Entity (020000010000022b)",
+                            "Passive": "",
+                            "Slot": 2,
+                            "SpellId": {
+                                "OriginatorPrototype": "",
+                                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                                "Prototype": "",
+                                "SourceType": "Unknown17"
+                            }
+                        }
+                    ],
+                    "Height": 1,
+                    "Index": 2,
+                    "Width": 12,
+                    "field_1": 1,
+                    "field_20": ""
+                },
+                {
+                    "Elements": [],
+                    "Height": 1,
+                    "Index": 3,
+                    "Width": 12,
+                    "field_1": 1,
+                    "field_20": ""
+                },
+                {
+                    "Elements": [],
+                    "Height": 1,
+                    "Index": 4,
+                    "Width": 12,
+                    "field_1": 1,
+                    "field_20": ""
+                },
+                {
+                    "Elements": [],
+                    "Height": 2,
+                    "Index": 7,
+                    "Width": 8,
+                    "field_1": 2,
+                    "field_20": ""
+                },
+                {
+                    "Elements": [],
+                    "Height": 2,
+                    "Index": 8,
+                    "Width": 8,
+                    "field_1": 2,
+                    "field_20": ""
+                },
+                {
+                    "Elements": [],
+                    "Height": 2,
+                    "Index": 9,
+                    "Width": 8,
+                    "field_1": 2,
+                    "field_20": ""
+                }
+            ]
+        }
+    },
+    "HotbarDecks": {
+        "Decks": {
+            "DefaultBarContainer": -1
+        }
+    },
+    "Icon": {
+        "Icon": "CustomIconSet"
+    },
+    "Identity": {
+        "field_0": 2
+    },
+    "IdentityState": {
+        "Disguised": false
+    },
+    "InterruptContainer": {
+        "Interrupts": [
+            "Entity (0200000100002307)"
+        ]
+    },
+    "InterruptPreferences": {
+        "Preferences": {
+            "Interrupt_AttackOfOpportunity": 2
+        }
+    },
+    "InventoryOwner": {
+        "Inventories": [
+            "Entity (02000001000007e6)",
+            "Entity (02000001000007e7)"
+        ],
+        "PrimaryInventory": "Entity (02000001000007e6)"
+    },
+    "InventoryWeight": {
+        "Weight": 11220
+    },
+    "IsCharacter": {},
+    "IsGlobal": {},
+    "IsMarkedForDeletion": {},
+    "LearnedSpells": {
+        "field_18": {},
+        "field_70": []
+    },
+    "Level": {
+        "LevelName": "TUT_Avernus_C",
+        "field_0": "Entity (0200000100002367)"
+    },
+    "LevelUp": {
+        "field_18": [
+            {
+                "Abilities": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "AccessorySet": "f73c803d-7b7e-4703-9004-382b8c588b70",
+                "Class": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                "Feat": "00000000-0000-0000-0000-000000000000",
+                "Spells": [],
+                "SubClass": "00000000-0000-0000-0000-000000000000",
+                "Upgrades": {
+                    "AbilityBonuses": [
+                        {
+                            "AbilityBonus": "b9149c8e-52c8-46e5-9cb6-fc39301c05fe",
+                            "BonusAmounts": [
+                                2,
+                                1
+                            ],
+                            "BonusType": "AbilityBonus",
+                            "Bonuses": [
+                                "Wisdom",
+                                "Constitution"
+                            ],
+                            "Class": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                            "Level": 1,
+                            "Multiclass": false,
+                            "Subclass": "00000000-0000-0000-0000-000000000000",
+                            "Type": 3,
+                            "field_30": 0,
+                            "field_80": -1
+                        }
+                    ],
+                    "Equipment": [],
+                    "Feats": [],
+                    "Passives": [],
+                    "SkillBonuses": [],
+                    "Skills": [
+                        {
+                            "Class": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                            "Level": 1,
+                            "Multiclass": false,
+                            "Proficiencies": [
+                                "AnimalHandling",
+                                "Nature"
+                            ],
+                            "Skill": "a3e28a89-3c36-4516-a1ed-c8061ba7f166",
+                            "Subclass": "00000000-0000-0000-0000-000000000000",
+                            "Type": 3,
+                            "field_30": 0,
+                            "field_60": "",
+                            "field_80": -1
+                        }
+                    ],
+                    "Spells": [
+                        {
+                            "Class": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                            "Level": 1,
+                            "Multiclass": false,
+                            "ReplaceSpells": [],
+                            "SelectorId": "",
+                            "SpellList": "b8faf12f-ca42-45c0-84f8-6951b526182a",
+                            "Spells": [
+                                "Shout_Shillelagh",
+                                "Target_ThornWhip"
+                            ],
+                            "Subclass": "00000000-0000-0000-0000-000000000000",
+                            "Type": 3,
+                            "field_30": 0
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "Loot": {
+        "Flags": 1,
+        "InventoryType": 11
+    },
+    "Movement": {
+        "Acceleration": 12.0,
+        "Direction": [
+            0.23620140552520752,
+            -0.0,
+            0.97170424461364746
+        ],
+        "Speed": 0.0,
+        "Speed2": 0.0
+    },
+    "Net": {},
+    "NonTradable": {},
+    "ObjectInteraction": {
+        "Interactions": []
+    },
+    "ObjectSize": {
+        "Size": 2,
+        "SoundSize": 2
+    },
+    "Origin": {
+        "Origin": "DarkUrge",
+        "field_18": "5af0f42c-9b32-4c3c-b108-46c44196081b"
+    },
+    "OriginAppearanceTag": {
+        "Tags": [
+            "fe825e69-1569-471f-9b3f-28fd3b929683"
+        ]
+    },
+    "OriginPassives": {
+        "field_18": [
+            {
+                "Passive": 563,
+                "field_0": 918641136
+            }
+        ]
+    },
+    "OriginTag": {
+        "Tags": [
+            "cd611d7d-b67d-42b4-a75c-a0c6091ef8a2"
+        ]
+    },
+    "OriginalIdentity": {
+        "field_0": 2
+    },
+    "OriginalTemplate": {
+        "OriginalTemplate": null
+    },
+    "PartyMember": {
+        "IsPermanent": true,
+        "Party": "Entity (0200000100000464)",
+        "UserId": 65537,
+        "UserUuid": "c9b33058-9130-d621-fd8c-ea36a41d5088",
+        "ViewUuid": "ed266a7c-6d54-f5ae-209b-215e4dece57c"
+    },
+    "PassiveContainer": {
+        "Passives": [
+            "Entity (0200000100000de0)",
+            "Entity (0200000100000de1)",
+            "Entity (0200000100001986)",
+            "Entity (0200000100001987)",
+            "Entity (0200000100001988)",
+            "Entity (0200000100001a01)",
+            "Entity (0200000100001a02)",
+            "Entity (0200000100001a03)",
+            "Entity (0200000100001a04)",
+            "Entity (0200000100001a05)",
+            "Entity (0200000100001a06)",
+            "Entity (0200000100001a07)"
+        ]
+    },
+    "Pathing": {
+        "Flags": 0,
+        "MovementTiltToRemap": "1df9c9ee-8dd8-ebeb-3b1a-83d31f141f0a",
+        "PathId": -1337,
+        "PathMovementSpeed": 0.0,
+        "PathParameters": {
+            "SpineBending": {
+                "Values1": [
+                    0,
+                    0
+                ],
+                "Values2": [
+                    1.0,
+                    -1.0
+                ],
+                "Values3": [
+                    [
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                ],
+                "field_30": 1
+            }
+        },
+        "ServerControl": 0,
+        "VectorParameters": {
+            "LookAt": [
+                4.0,
+                -3.4028234663852886e+38,
+                -3.4028234663852886e+38,
+                -3.4028234663852886e+38
+            ],
+            "Steering": [
+                0.25,
+                -3.4028234663852886e+38,
+                -3.4028234663852886e+38,
+                -3.4028234663852886e+38
+            ],
+            "TiltTo": [
+                2.0,
+                -3.4028234663852886e+38,
+                -3.4028234663852886e+38,
+                -3.4028234663852886e+38
+            ]
+        },
+        "field_20": 0,
+        "field_28": 0,
+        "field_30": 0,
+        "field_38": 0,
+        "field_48": 0
+    },
+    "Physics": {
+        "field_10": 0,
+        "field_14": 0,
+        "field_15": 1,
+        "field_16": 0,
+        "field_8": 8389120,
+        "field_C": 0
+    },
+    "PickingState": {},
+    "Player": {},
+    "PlayerPrepareSpell": {
+        "Spells": [
+            {
+                "OriginatorPrototype": "Projectile_IceKnife",
+                "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                "SourceType": "Progression0"
+            },
+            {
+                "OriginatorPrototype": "Target_Entangle",
+                "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                "SourceType": "Progression0"
+            },
+            {
+                "OriginatorPrototype": "Target_Goodberry",
+                "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                "SourceType": "Progression0"
+            },
+            {
+                "OriginatorPrototype": "Target_HealingWord",
+                "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                "SourceType": "Progression0"
+            }
+        ],
+        "field_30": 0
+    },
+    "Proficiency": {
+        "field_0": 42758619142
+    },
+    "ProgressionContainer": {
+        "Progressions": [
+            [
+                "Entity (0200000100000b35)",
+                "Entity (0200000100000b36)",
+                "Entity (0200000100000b37)"
+            ]
+        ]
+    },
+    "Race": {
+        "Race": "a459ba68-a9ec-4c8e-b127-602615f5b4c0"
+    },
+    "ReadyToBeAddedToInventory": {},
+    "Resistances": {
+        "AC": 21,
+        "PerDamageTypeHealthThresholds": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "PerDamageTypeHealthThresholds2": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "Resistances": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ],
+        "field_E": 0
+    },
+    "Savegame": {},
+    "ServerAiArchetype": {
+        "field_0": "base",
+        "field_4": "base",
+        "field_8": "",
+        "field_C": ""
+    },
+    "ServerAnubisExecutor": {
+        "field_18": 2419112875200,
+        "field_20": 65535,
+        "field_28": 8,
+        "field_29": 0
+    },
+    "ServerAnubisTag": {
+        "Tags": []
+    },
+    "ServerBaseData": {
+        "Flags": 524288,
+        "Resistances": [
+            [
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                []
+            ],
+            [
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                []
+            ]
+        ],
+        "Weight": 75000
+    },
+    "ServerBaseProficiency": {
+        "Proficiency": "HeroElfFemale",
+        "ProficiencyGroup": []
+    },
+    "ServerBaseSize": {
+        "GameSize": 2,
+        "SoundSize": 2
+    },
+    "ServerBaseStats": {
+        "Initiative": 0
+    },
+    "ServerBoostBase": {
+        "field_0": [
+            "BlockRegainHP(Undead;Construct)"
+        ]
+    },
+    "ServerBoostTag": {
+        "Tags": [
+            "ada75891-25ff-4bdc-9a11-ad32de62a961"
+        ]
+    },
+    "ServerCCAppearanceVisualTag": {
+        "Tags": [
+            "a0738fdf-ca0c-446f-a11d-6211ecac3291"
+        ]
+    },
+    "ServerCCGod": {
+        "God": "00000000-0000-0000-0000-000000000000"
+    },
+    "ServerCCIsCustom": {},
+    "ServerCanStartCombat": {},
+    "ServerCharacter": {
+        "Activated": true,
+        "BaseVisual": "",
+        "BlockNewDisturbanceReactions": false,
+        "CanGossip": true,
+        "CanShootThrough": false,
+        "CannotAttachToGroups": false,
+        "CannotDie": false,
+        "CannotMove": false,
+        "CannotRun": false,
+        "CharCreationInProgress": false,
+        "Character": "*RECURSION*",
+        "CharacterControl": true,
+        "CharacterCreationFinished": false,
+        "CoverAmount": false,
+        "CreatedTemplateItems": [],
+        "CrimeHandle": 0,
+        "CrimeState": 0,
+        "CrimeWarningsEnabled": true,
+        "CustomLookEnabled": false,
+        "CustomTradeTreasure": "SYS_CC_I",
+        "Deactivated": false,
+        "Dead": false,
+        "DeferredRemoveEscapist": false,
+        "Detached": false,
+        "Dialog": 0,
+        "DisableCulling": false,
+        "DisableWaypointUsage": false,
+        "DisabledCrime": [
+            "SelfHealing"
+        ],
+        "DoNotFaceFlag": false,
+        "DontCacheTemplate": false,
+        "EnemyCharacter": null,
+        "FightMode": false,
+        "FindValidPositionOnActivate": false,
+        "Flags": [
+            "IsPlayer",
+            "Multiplayer",
+            "CharacterControl",
+            "SpotSneakers",
+            "Activated"
+        ],
+        "Flags2": [
+            "Global",
+            "CanGossip"
+        ],
+        "Flags3": [
+            "CrimeWarningsEnabled"
+        ],
+        "Floating": false,
+        "FollowCharacter": null,
+        "ForceNonzeroSpeed": false,
+        "ForceSynch": 0,
+        "GMReroll": false,
+        "GetStatus": "function: 00007FFCAD99E750",
+        "GetStatusByType": "function: 00007FFCAD99E830",
+        "Global": true,
+        "HasOsirisDialog": 0,
+        "HasOwner": false,
+        "HostControl": false,
+        "IgnoresTriggers": false,
+        "InDialog": false,
+        "InParty": false,
+        "Inventory": null,
+        "InvestigationTimer": 1.0,
+        "Invisible": false,
+        "Invulnerable": false,
+        "IsCompanion_M": false,
+        "IsHuge": false,
+        "IsPet": false,
+        "IsPlayer": true,
+        "IsResurrected": false,
+        "IsTrading": false,
+        "Level": "TUT_Avernus_C",
+        "LevelTransitionPending": false,
+        "Loaded": false,
+        "Multiplayer": true,
+        "MyHandle": "Entity (0200000100000076)",
+        "NeedsMakePlayerUpdate": false,
+        "NeedsPlacementSnapping": false,
+        "NeedsUpdate": 0,
+        "NumConsumables": 0,
+        "OffStage": false,
+        "OriginalTemplate": "*RECURSION*",
+        "OwnerCharacter": null,
+        "PartyFollower": false,
+        "PlayerData": {
+            "CachedTension": 1,
+            "CustomData": {
+                "Initialized": true,
+                "OwnerProfileID": "c9b33058-9130-d621-fd8c-ea36a41d5088",
+                "ReservedProfileID": "c9b33058-9130-d621-fd8c-ea36a41d5088"
+            },
+            "HelmetOption": 2,
+            "IsInDangerZone": false,
+            "PlayerHandle": "Entity (0200000100000076)",
+            "PreviousPositionId": 1,
+            "PreviousPositions": [
+                [
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38
+                ],
+                [
+                    54.165706634521484,
+                    16.9912109375,
+                    -419.88217163085938
+                ],
+                [
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38
+                ],
+                [
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38
+                ],
+                [
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38
+                ],
+                [
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38
+                ],
+                [
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38
+                ],
+                [
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38
+                ],
+                [
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38
+                ],
+                [
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38
+                ],
+                [
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38
+                ],
+                [
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38
+                ],
+                [
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38
+                ],
+                [
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38
+                ],
+                [
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38
+                ],
+                [
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38
+                ],
+                [
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38
+                ],
+                [
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38
+                ],
+                [
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38
+                ],
+                [
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38
+                ],
+                [
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38
+                ],
+                [
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38
+                ],
+                [
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38
+                ],
+                [
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38
+                ],
+                [
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38,
+                    3.4028234663852886e+38
+                ]
+            ],
+            "QuestSelected": "",
+            "Region": "",
+            "Renown": 0,
+            "field_4C": 12,
+            "field_68": null,
+            "field_94": false
+        },
+        "PreferredAiTargets": [],
+        "PreviousCrimeHandle": 0,
+        "PreviousCrimeState": 0,
+        "RegisteredForAutomatedDialog": false,
+        "RequestStartTurn": false,
+        "ReservedForDialog": false,
+        "SpotSneakers": true,
+        "StatusManager": {
+            "Statuses": [
+                {
+                    "BringIntoCombat": false,
+                    "Cause": null,
+                    "CauseGUID": "00000000-0000-0000-0000-000000000000",
+                    "CauseIsOrigin": false,
+                    "CauseType": 0,
+                    "CausedByEquipment": false,
+                    "CurrentLifeTime": -1.0,
+                    "DifficultyStatus": "",
+                    "DisableImmunityOverhead": false,
+                    "DontTickWhileOnSurface": false,
+                    "ExitCause": 3,
+                    "Flags": [
+                        "Loaded",
+                        "IgnoreStacking",
+                        "Started"
+                    ],
+                    "Flags2": [
+                        "IsLifeTimeSet"
+                    ],
+                    "Flags3": [
+                        "StatusFlags3_0x08"
+                    ],
+                    "Flags4": [
+                        "StatusFlags4_0x04",
+                        "IsHostileAct"
+                    ],
+                    "ForceFailStatus": false,
+                    "ForceStatus": false,
+                    "FreezeDuration": false,
+                    "IgnoreStacking": true,
+                    "Influence": false,
+                    "InitiateCombat": false,
+                    "IsChanneled": false,
+                    "IsFromItem": false,
+                    "IsHostileAct": true,
+                    "IsInvulnerable": false,
+                    "IsInvulnerableVisible": false,
+                    "IsLifeTimeSet": true,
+                    "IsOnSourceSurface": false,
+                    "IsRecoverable": false,
+                    "IsUnique": false,
+                    "KeepAlive": false,
+                    "LifeTime": -1.0,
+                    "Loaded": true,
+                    "NotifiedPlanManager": false,
+                    "OriginCauseType": 0,
+                    "Originator": {
+                        "ActionGuid": "4f1ffdb8-e64f-b0e9-debe-67afea9e9d7e",
+                        "CanApplyConcentration": true,
+                        "InterruptId": "",
+                        "PassiveId": "",
+                        "StatusId": ""
+                    },
+                    "Owner": "Entity (0200000100000076)",
+                    "RemoveConditionsId": -1,
+                    "RemoveEvents": 0,
+                    "RequestClientSync": false,
+                    "RequestDelete": false,
+                    "RequestDeleteAtTurnEnd": false,
+                    "RootCause": null,
+                    "SourceEquippedItem": null,
+                    "SourceSpell": {
+                        "OriginatorPrototype": "",
+                        "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                        "Prototype": "",
+                        "SourceType": "Unknown17"
+                    },
+                    "SourceUsedItem": null,
+                    "SpellCastSourceUuid": "00000000-0000-0000-0000-000000000000",
+                    "SpellCastingAbility": 0,
+                    "StackId": "",
+                    "StackPriority": 0,
+                    "StackedSpellCastSourceUuid": "00000000-0000-0000-0000-000000000000",
+                    "StartTimer": 0.0,
+                    "Started": true,
+                    "StatusFlags3_0x08": true,
+                    "StatusFlags3_0x10": false,
+                    "StatusFlags3_0x20": false,
+                    "StatusFlags3_0x40": false,
+                    "StatusFlags3_0x80": false,
+                    "StatusFlags4_0x04": true,
+                    "StatusFlags4_0x80": false,
+                    "StatusHandle": "userdata: 0F400001000001B4",
+                    "StatusId": "TUT_SUMMON_BLOCK",
+                    "StatusOwner": [],
+                    "StatusSource": null,
+                    "StoryActionID": -1,
+                    "Strength": 0.0,
+                    "SyncEntity": "Entity (0200000100000af0)",
+                    "TickType": 0,
+                    "TurnTimer": 3.3709721565246582,
+                    "field_105": 0,
+                    "field_18": 281474976711093,
+                    "field_48": 0.0,
+                    "field_8": "00000000-0000-0000-0000-000000000000",
+                    "field_E0": null,
+                    "field_E8": "00000000-0000-0000-0000-000000000000"
+                },
+                {
+                    "BringIntoCombat": false,
+                    "Cause": null,
+                    "CauseGUID": "00000000-0000-0000-0000-000000000000",
+                    "CauseIsOrigin": false,
+                    "CauseType": 0,
+                    "CausedByEquipment": false,
+                    "CurrentLifeTime": -1.0,
+                    "DifficultyStatus": "",
+                    "DisableImmunityOverhead": false,
+                    "DontTickWhileOnSurface": false,
+                    "ExitCause": 3,
+                    "Flags": [
+                        "Loaded",
+                        "IgnoreStacking",
+                        "Started"
+                    ],
+                    "Flags2": [
+                        "IsLifeTimeSet"
+                    ],
+                    "Flags3": [
+                        "StatusFlags3_0x08"
+                    ],
+                    "Flags4": [
+                        "StatusFlags4_0x04",
+                        "IsHostileAct"
+                    ],
+                    "ForceFailStatus": false,
+                    "ForceStatus": false,
+                    "FreezeDuration": false,
+                    "IgnoreStacking": true,
+                    "Influence": false,
+                    "InitiateCombat": false,
+                    "IsChanneled": false,
+                    "IsFromItem": false,
+                    "IsHostileAct": true,
+                    "IsInvulnerable": false,
+                    "IsInvulnerableVisible": false,
+                    "IsLifeTimeSet": true,
+                    "IsOnSourceSurface": false,
+                    "IsRecoverable": false,
+                    "IsUnique": false,
+                    "KeepAlive": false,
+                    "LifeTime": -1.0,
+                    "Loaded": true,
+                    "NotifiedPlanManager": false,
+                    "OriginCauseType": 0,
+                    "Originator": {
+                        "ActionGuid": "0795851f-6d88-ac74-4874-63927622e768",
+                        "CanApplyConcentration": true,
+                        "InterruptId": "",
+                        "PassiveId": "",
+                        "StatusId": ""
+                    },
+                    "Owner": "Entity (0200000100000076)",
+                    "RemoveConditionsId": -1,
+                    "RemoveEvents": 0,
+                    "RequestClientSync": false,
+                    "RequestDelete": false,
+                    "RequestDeleteAtTurnEnd": false,
+                    "RootCause": null,
+                    "SourceEquippedItem": null,
+                    "SourceSpell": {
+                        "OriginatorPrototype": "",
+                        "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                        "Prototype": "",
+                        "SourceType": "Unknown17"
+                    },
+                    "SourceUsedItem": null,
+                    "SpellCastSourceUuid": "00000000-0000-0000-0000-000000000000",
+                    "SpellCastingAbility": 0,
+                    "StackId": "",
+                    "StackPriority": 0,
+                    "StackedSpellCastSourceUuid": "00000000-0000-0000-0000-000000000000",
+                    "StartTimer": 0.0,
+                    "Started": true,
+                    "StatusFlags3_0x08": true,
+                    "StatusFlags3_0x10": false,
+                    "StatusFlags3_0x20": false,
+                    "StatusFlags3_0x40": false,
+                    "StatusFlags3_0x80": false,
+                    "StatusFlags4_0x04": true,
+                    "StatusFlags4_0x80": false,
+                    "StatusHandle": "userdata: 0F400001000001B3",
+                    "StatusId": "TUT_NO_CRIT_MISS",
+                    "StatusOwner": [],
+                    "StatusSource": null,
+                    "StoryActionID": -1,
+                    "Strength": 0.0,
+                    "SyncEntity": "Entity (0200000100000af1)",
+                    "TickType": 0,
+                    "TurnTimer": 3.3709721565246582,
+                    "field_105": 0,
+                    "field_18": 281474976711092,
+                    "field_48": 0.0,
+                    "field_8": "00000000-0000-0000-0000-000000000000",
+                    "field_E0": null,
+                    "field_E8": "00000000-0000-0000-0000-000000000000"
+                },
+                {
+                    "BringIntoCombat": false,
+                    "Cause": null,
+                    "CauseGUID": "00000000-0000-0000-0000-000000000000",
+                    "CauseIsOrigin": false,
+                    "CauseType": 4,
+                    "CausedByEquipment": false,
+                    "CurrentLifeTime": -6.0,
+                    "DifficultyStatus": "",
+                    "DisableImmunityOverhead": false,
+                    "DontTickWhileOnSurface": false,
+                    "ExitCause": 3,
+                    "Flags": [
+                        "Loaded",
+                        "IgnoreStacking",
+                        "Started"
+                    ],
+                    "Flags2": [
+                        "IsLifeTimeSet"
+                    ],
+                    "Flags3": [
+                        "StatusFlags3_0x08"
+                    ],
+                    "Flags4": [
+                        "StatusFlags4_0x04",
+                        "IsHostileAct"
+                    ],
+                    "ForceFailStatus": false,
+                    "ForceStatus": false,
+                    "FreezeDuration": false,
+                    "IgnoreStacking": true,
+                    "Influence": false,
+                    "InitiateCombat": false,
+                    "IsChanneled": false,
+                    "IsFromItem": false,
+                    "IsHostileAct": true,
+                    "IsInvulnerable": false,
+                    "IsInvulnerableVisible": false,
+                    "IsLifeTimeSet": true,
+                    "IsOnSourceSurface": false,
+                    "IsRecoverable": false,
+                    "IsUnique": false,
+                    "KeepAlive": false,
+                    "LifeTime": -6.0,
+                    "Loaded": true,
+                    "NotifiedPlanManager": false,
+                    "OriginCauseType": 0,
+                    "Originator": {
+                        "ActionGuid": "415c54d2-69ad-7331-4ad0-52e9fa0ef55e",
+                        "CanApplyConcentration": false,
+                        "InterruptId": "",
+                        "PassiveId": "",
+                        "StatusId": "TCP_BOOST_DRANKPOTION_APPLY"
+                    },
+                    "Owner": "Entity (0200000100000076)",
+                    "RemoveConditionsId": -1,
+                    "RemoveEvents": 0,
+                    "RequestClientSync": false,
+                    "RequestDelete": false,
+                    "RequestDeleteAtTurnEnd": false,
+                    "RootCause": null,
+                    "SourceEquippedItem": null,
+                    "SourceSpell": {
+                        "OriginatorPrototype": "",
+                        "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                        "Prototype": "",
+                        "SourceType": "Unknown17"
+                    },
+                    "SourceUsedItem": null,
+                    "SpellCastSourceUuid": "00000000-0000-0000-0000-000000000000",
+                    "SpellCastingAbility": 0,
+                    "StackId": "TCP_BOOST_DRANKPOTION",
+                    "StackPriority": 0,
+                    "StackedSpellCastSourceUuid": "00000000-0000-0000-0000-000000000000",
+                    "StartTimer": 0.0,
+                    "Started": true,
+                    "StatusFlags3_0x08": true,
+                    "StatusFlags3_0x10": false,
+                    "StatusFlags3_0x20": false,
+                    "StatusFlags3_0x40": false,
+                    "StatusFlags3_0x80": false,
+                    "StatusFlags4_0x04": true,
+                    "StatusFlags4_0x80": false,
+                    "StatusHandle": "userdata: 0F400001000001B2",
+                    "StatusId": "TCP_BOOST_DRANKPOTION",
+                    "StatusOwner": [],
+                    "StatusSource": null,
+                    "StoryActionID": 0,
+                    "Strength": 0.0,
+                    "SyncEntity": "Entity (0200000100000af2)",
+                    "TickType": 0,
+                    "TurnTimer": 3.3709721565246582,
+                    "field_105": 0,
+                    "field_18": 281474976711091,
+                    "field_48": 0.0,
+                    "field_8": "00000000-0000-0000-0000-000000000000",
+                    "field_E0": null,
+                    "field_E8": "00000000-0000-0000-0000-000000000000"
+                }
+            ]
+        },
+        "SteeringEnabled": false,
+        "StoryNPC": false,
+        "Summon": false,
+        "Template": {
+            "AIBounds": [
+                {
+                    "AiType": 2,
+                    "Height": 2.0,
+                    "Max": [
+                        0.81502002477645874,
+                        1.9335399866104126,
+                        0.1260170042514801
+                    ],
+                    "Min": [
+                        -0.81502002477645874,
+                        -0.0013587500434368849,
+                        -0.21171699464321136
+                    ],
+                    "Radius": 0.20000000298023224,
+                    "Radius2": 0.0,
+                    "Type": 0,
+                    "field_28": 1,
+                    "field_2A": 0
+                },
+                {
+                    "AiType": 2,
+                    "Height": 2.0,
+                    "Max": [
+                        0.81502002477645874,
+                        1.9335399866104126,
+                        0.1260170042514801
+                    ],
+                    "Min": [
+                        -0.81502002477645874,
+                        -0.0013587500434368849,
+                        -0.21171699464321136
+                    ],
+                    "Radius": 0.24899999797344208,
+                    "Radius2": 0.0,
+                    "Type": 0,
+                    "field_28": 0,
+                    "field_2A": 0
+                },
+                {
+                    "AiType": 2,
+                    "Height": 2.0,
+                    "Max": [
+                        0.81502002477645874,
+                        1.9335399866104126,
+                        0.1260170042514801
+                    ],
+                    "Min": [
+                        -0.81502002477645874,
+                        -0.0013587500434368849,
+                        -0.21171699464321136
+                    ],
+                    "Radius": 0.49900001287460327,
+                    "Radius2": 0.0,
+                    "Type": 0,
+                    "field_28": 2,
+                    "field_2A": 0
+                }
+            ],
+            "ActivationGroupId": "",
+            "AliveInventoryType": 11,
+            "AllowReceiveDecalWhenAnimated": false,
+            "AnimationSetResourceID": "",
+            "AnubisConfigName": "DefaultCharacter",
+            "AnubisNonPersistent": false,
+            "AvoidTraps": false,
+            "BloodSurfaceType": 4,
+            "BloodType": "Red",
+            "CameraOffset": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "CanBePickedUp": true,
+            "CanBePickpocketed": true,
+            "CanBeTeleported": true,
+            "CanClimbLadders": true,
+            "CanConsumeItems": true,
+            "CanOpenDoors": true,
+            "CanShootThrough": false,
+            "CanWalkThroughDoors": false,
+            "CastShadow": true,
+            "CharacterVisualResourceID": "69c6d55e-2faa-16a0-f0bd-7e3dce4529cf",
+            "CollideWithCamera": false,
+            "CombatComponent": {
+                "AiHint": "00000000-0000-0000-0000-000000000000",
+                "AiUseCombatHelper": "",
+                "Archetype": "base",
+                "CanFight": true,
+                "CanJoinCombat": true,
+                "CombatGroupID": "",
+                "Faction": "cfb709b3-220f-9682-bcfb-6f0d8837462e",
+                "IsBoss": false,
+                "IsInspector": false,
+                "ProxyAttachment": "",
+                "ProxyOwner": "00000000-0000-0000-0000-000000000000",
+                "StartCombatRange": -1.0,
+                "StayInAiHints": false,
+                "SwarmGroup": "",
+                "Unknown": 0,
+                "Unknown2": 0
+            },
+            "CoverAmount": 0,
+            "CriticalHitType": "Default",
+            "DeathEffect": "eb0aa43b-fcdc-4ef2-8c54-f60e75074e83",
+            "DeathRaycastHeight": 0.40000000596046448,
+            "DeathRaycastMaxLength": 1.5,
+            "DeathRaycastMinLength": 0.0,
+            "DeathRaycastVerticalLength": 0.5,
+            "DefaultDialog": "",
+            "DefaultState": 0,
+            "DisableEquipping": false,
+            "DisintegrateFX": "",
+            "DisintegratedResourceID": "c201a86a-297f-4d0d-16a3-073c1098767b",
+            "DisplayName": {
+                "ArgumentString": {
+                    "Handle": "ls::TranslatedStringRepository::s_HandleUnknown",
+                    "Version": 0
+                },
+                "Handle": {
+                    "Handle": "hc5216023g2923g4736g8452geb57db4ad038",
+                    "Version": 2
+                }
+            },
+            "Equipment": "",
+            "EquipmentRace": "ad21d837-2db5-4e46-8393-7d875dd71287",
+            "EquipmentTypes": [
+                "d2141ff0-1368-4c35-b438-e9cd208182f8",
+                "896f8a20-7dda-4bff-b726-08c3dacccc7b",
+                "4135c6a5-78b6-4c6d-85df-f77df52ce775",
+                "2d85d633-d496-44a1-a643-0e95ef879a6d",
+                "5e004b79-461d-4617-bb0f-eef0e0ae1232",
+                "62ff4f7c-0724-43fa-997b-ef0c486a5573",
+                "4df07ab5-44a3-421e-b4bc-598c49d6cfc8",
+                "8ac2eb82-8563-4657-8c4c-1507573978d7",
+                "98a38628-79fa-4f24-904e-de54f4ef03ae",
+                "87fbc05b-c870-4bc1-95fb-56ea3fcb9e22",
+                "59075318-8af3-41ed-bee7-3c58c37bdd9a",
+                "edda8fbb-6456-4514-b3cc-36a2bc674c31",
+                "c9f1412d-51e6-4606-ab4f-04522034af56",
+                "f0953501-75b1-43a3-8699-e2d58fd101e8",
+                "2fc3e6f9-120c-4adf-b7c3-7890aed7c312",
+                "bf90a760-4f63-416d-969d-0ec12872e8d5",
+                "f85002a2-8e0e-4a49-aa0f-f52e987d3a3a",
+                "7883d641-2b8b-40dc-85d8-51751dd42bbc",
+                "cef94292-4854-4085-b343-5c041992234d",
+                "7c6a4c59-273f-4b9a-b159-bf29f182f46a",
+                "ff959027-4390-44e3-b363-0eacc8134ba6",
+                "b428632e-3137-47aa-ae8f-ddff6fc27cc8",
+                "4d500520-1818-4a5e-83b9-324957e22969",
+                "12b80df8-aaf1-4543-84fa-c44622e451b5",
+                "fac6dd3a-6ceb-40fc-91e8-6f39c33cd98a",
+                "520bf44f-b723-4e61-8d59-19ba47a7c1ca",
+                "edb9b30a-3db2-4a36-b77d-fdfb5eda50f4",
+                "2b95bdd2-317f-41c1-9ec0-5fa08b888b0a",
+                "ccab7523-374c-49b4-96c7-8bf3e5b9c1ca",
+                "04c50c6f-4a08-4b42-8223-f2a96db5f49c",
+                "cb322434-365d-47bf-8357-e2f202dfb129",
+                "bcba31b8-507e-483a-9029-2db00b3d6651",
+                "ab54402e-d3f3-497d-9b81-519b18afb827",
+                "5bc8d223-0dd5-4cc5-b8da-05e3b6b94944",
+                "19521438-4f49-4f48-8ff5-d9b9774a0aed",
+                "4b8a8577-1cf3-4234-9571-d15218d879e5",
+                "92f33192-9144-4dee-8ddf-3fd96e291e28",
+                "7fc61b2f-f602-4397-970d-aab89886be35"
+            ],
+            "ExcludeInDifficulty": [],
+            "ExplodedResourceID": "9b371eaa-2ebe-028e-d577-2202ab7acff1",
+            "ExplosionFX": "",
+            "FadeChildren": [],
+            "FadeGroup": "",
+            "Fadeable": false,
+            "FileName": "W:/SteamLibrary/steamapps/common/Baldurs Gate 3/Data/Public/Shared/RootTemplates/_merged.lsf",
+            "FoleyLongResourceID": "",
+            "FoleyMediumResourceID": "",
+            "FoleyShortResourceID": "",
+            "ForceLifetimeDeath": false,
+            "GeneratePortrait": "Icon_Elf_Female",
+            "GlobalDeletedFlag": 4,
+            "GroupID": 0,
+            "HasPlayerApprovalRating": false,
+            "HierarchyOnlyFade": false,
+            "Icon": "69c6d55e-2faa-16a0-f0bd-7e3dce4529cf-_(Icon_Elf_Female)",
+            "Id": "50e44ccc-28a0-44eb-998e-f085f7fe8f7c",
+            "InfluenceTreasureLevel": true,
+            "InventoryType": 33,
+            "IsDroppedOnDeath": true,
+            "IsEquipmentLootable": true,
+            "IsLootable": true,
+            "IsMovementEnabled": true,
+            "IsPlayer": false,
+            "IsReflecting": false,
+            "IsShadowProxy": false,
+            "IsSimpleCharacter": false,
+            "IsSteeringEnabled": true,
+            "IsTradable": 2,
+            "IsWorldClimbingEnabled": true,
+            "JumpUpLadders": false,
+            "LadderAttachOffset": 0.0,
+            "LadderBlendspace_Attach_Down": "bfe92170-8525-86fe-087f-c5266286a137",
+            "LadderBlendspace_Attach_Up": "df54ed81-af7f-fe2d-4abf-16be8e074f2e",
+            "LadderBlendspace_Detach_Down": "09fa116f-66b3-03a2-4e89-00bf733e658b",
+            "LadderBlendspace_Detach_Up": "a684397b-430b-eb28-269a-6e5a971309a7",
+            "LadderLoopSpeed": 3.75,
+            "LevelName": "",
+            "LevelOverride": -1,
+            "LightChannel": 5,
+            "MaxDashDistance": 2.0,
+            "MovementAcceleration": 12.0,
+            "MovementSpeedDash": 6.0,
+            "MovementSpeedRun": 3.75,
+            "MovementSpeedSprint": 6.0,
+            "MovementSpeedStroll": 1.3999999761581421,
+            "MovementSpeedWalk": 2.0,
+            "MovementStepUpHeight": 0.60000002384185791,
+            "MovementTiltToRemap": "1df9c9ee-8dd8-ebeb-3b1a-83d31f141f0a",
+            "Name": "Elves_Female_Wood_Player",
+            "OnlyInDifficulty": [],
+            "ParentTemplateFlags": 0,
+            "ParentTemplateId": "7e0ffe5c-8eb2-4ed1-926a-a6326c45cffd",
+            "PhysicsOpenTemplate": "",
+            "PhysicsTemplate": "950614ec-c898-c384-3bbe-3cb58a07cfde",
+            "PickingPhysicsTemplates": {
+                "CharacterDeadPicking": "ad93bd17-f05c-d4fb-a047-9e29a4157971",
+                "CharacterLyingPicking": "6323b0ce-dab3-6e85-bebc-301aceb84602",
+                "CharacterSittingPicking": "17d6a1c8-e453-fbda-5769-38f4d950a50a"
+            },
+            "ProbeLookAtOffset": 4.0,
+            "ProbeSpineAOffset": 1.0,
+            "ProbeSpineBOffset": -1.0,
+            "ProbeTiltToOffset": 2.0,
+            "Race": "a459ba68-a9ec-4c8e-b127-602615f5b4c0",
+            "RagdollTemplate": "",
+            "ReceiveDecal": false,
+            "RenderChannel": 4,
+            "SeeThrough": false,
+            "ShootThroughType": 6,
+            "SoftBodyCollisionTemplate": "",
+            "SoundAttenuation": -1,
+            "SoundInitEvent": "",
+            "SoundMovementStartEvent": "588ebb89-e66c-4b69-94c8-ba4ac2cc0eab",
+            "SoundMovementStopEvent": "d7d5091b-f262-44f2-6296-0099f0baac88",
+            "SoundObjectIndex": -1,
+            "SpeakerGroupList": [
+                "02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f",
+                "e0d1ff71-04a8-4340-ae64-9684d846eb83"
+            ],
+            "SpellSet": "CommonPlayerActions",
+            "SpotSneakers": true,
+            "Stats": "HeroElfFemale",
+            "StatusList": [],
+            "SteeringSpeedCurveWithoutTransitions": "5422c43f-18fa-6916-e6eb-93c925bde6e0",
+            "SteeringSpeedFallback": 360.0,
+            "SteeringSpeed_CastingCurve": "b841b392-ab95-60a3-ad4f-6b0dc566ed1d",
+            "SteeringSpeed_MovingCurve": "522881b9-ce7f-4259-9e81-4cbe55f1fc3f",
+            "TemplateName": "",
+            "TemplateType": "character",
+            "Title": {
+                "ArgumentString": {
+                    "Handle": "ls::TranslatedStringRepository::s_HandleUnknown",
+                    "Version": 0
+                },
+                "Handle": {
+                    "Handle": "ls::TranslatedStringRepository::s_HandleUnknown",
+                    "Version": 0
+                }
+            },
+            "TradeTreasures": [
+                "Empty"
+            ],
+            "Transform": {
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Translate": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "Treasures": [
+                "Empty"
+            ],
+            "TrophyID": "",
+            "TurningNodeAngle": 30.0,
+            "TurningNodeOffset": 1.0,
+            "UseOcclusion": true,
+            "UseSoundClustering": true,
+            "UseStandAtDestination": false,
+            "VFXScale": 1.0,
+            "VisualTemplate": "",
+            "VocalAlertResourceID": "",
+            "VocalAngryResourceID": "",
+            "VocalAnticipationResourceID": "",
+            "VocalAttackResourceID": "80f9adec-0dfb-7452-8a6d-33945ae8880c",
+            "VocalAwakeResourceID": "a8d9d28d-2248-a1c0-93ae-8a0626cfcdda",
+            "VocalBoredResourceID": "",
+            "VocalBuffResourceID": "2b09134f-ca11-cadc-d13d-1687db994c33",
+            "VocalCinematicSuffix": "_Cinematics",
+            "VocalDeathResourceID": "2ead8451-29f7-c8e6-34ce-b2d0c890848f",
+            "VocalDodgeResourceID": "15746975-4136-7479-9163-97bf8a61a37e",
+            "VocalEffortsResourceID": "8b490065-b8c0-653c-be0a-88c2d94e567c",
+            "VocalExhaustedResourceID": "",
+            "VocalFallResourceID": "d22569e3-ef14-b831-7194-5467412b3f8e",
+            "VocalGaspResourceID": "1896ec0d-e17b-bc47-b994-d77cad0f66b9",
+            "VocalIdle1ResourceID": "fc424747-71f7-4828-84d5-95a1d2eae8ae",
+            "VocalIdle2ResourceID": "",
+            "VocalIdle3ResourceID": "",
+            "VocalIdleCombat1ResourceID": "",
+            "VocalIdleCombat2ResourceID": "",
+            "VocalIdleCombat3ResourceID": "",
+            "VocalInitiativeResourceID": "5452daf7-a301-c8b0-4364-428e2841f7f4",
+            "VocalLaughterManiacalResourceID": "df225c8c-e5fd-4788-b47c-c33b97ccdc3a",
+            "VocalLaughterResourceID": "2b3255d8-a94d-4ae7-8915-c7236d275543",
+            "VocalNoneResourceID": "2af5ab18-2087-45c6-94a8-a968190d618a",
+            "VocalPainResourceID": "7be2f2cd-5727-b0e5-2a88-3a782ae9d02b",
+            "VocalRebornResourceID": "",
+            "VocalRecoverResourceID": "c7757a75-4a39-0de2-c186-b924ae8f4236",
+            "VocalRelaxedResourceID": "",
+            "VocalShoutResourceID": "e6ab04ec-6206-9b30-8124-a4b3e6de11a4",
+            "VocalSnoreResourceID": "edfd660d-a788-380a-ac21-b4f77b008a4c",
+            "VocalSpawnResourceID": "",
+            "VocalVictoryResourceID": "4733fa3b-43d1-977b-ad32-611e0408d2ad",
+            "VocalWeakResourceID": "aac800d0-d1fe-cdd3-84bd-184029dff377",
+            "WalkThrough": false,
+            "WorldClimbingBlendspace_DownA": "1cd55755-bc55-767c-b32f-2f73fd6621d1",
+            "WorldClimbingBlendspace_DownB": "4b00912a-fd93-0336-3657-b1c87e55ef5f",
+            "WorldClimbingBlendspace_DownBHeight": 1.3500000238418579,
+            "WorldClimbingBlendspace_UpA": "7ab0010a-dc6e-89d8-f19d-1c26bfaec304",
+            "WorldClimbingBlendspace_UpB": "a6b1044a-f1ed-7557-c57b-645db8d764c3",
+            "WorldClimbingBlendspace_UpBHeight": 1.2000000476837158,
+            "WorldClimbingHeight": 2.0999999046325684,
+            "WorldClimbingRadius": -1.0,
+            "WorldClimbingSpeed": 6.0,
+            "field_8": 2418844088160
+        },
+        "TemplateUsedForSpells": "*RECURSION*",
+        "Temporary": false,
+        "Totem": false,
+        "Trader": false,
+        "TreasureGeneratedForTrader": false,
+        "Treasures": [
+            "Empty"
+        ],
+        "Unknown0x10": false,
+        "Unknown0x40": false,
+        "Unknown10000000000": false,
+        "Unknown40000000000": false,
+        "Unknown8000": false,
+        "Unknown80000000": false,
+        "Unknown80000000000000": false,
+        "UserID": 65537,
+        "UserID2": 65537,
+        "WalkThrough": false,
+        "field_B8": []
+    },
+    "ServerDarknessActive": {},
+    "ServerDelayDeathCause": {
+        "Blocked_M": 0,
+        "DelayCount": 0
+    },
+    "ServerDialogTag": {
+        "Tags": []
+    },
+    "ServerDisplayNameList": {
+        "Names": [
+            {
+                "Name": "",
+                "NameKey": {
+                    "ArgumentString": {
+                        "Handle": "ls::TranslatedStringRepository::s_HandleUnknown",
+                        "Version": 0
+                    },
+                    "Handle": {
+                        "Handle": "hc5216023g2923g4736g8452geb57db4ad038",
+                        "Version": 2
+                    }
+                },
+                "field_10": 6
+            },
+            {
+                "Name": "Thorn",
+                "NameKey": {
+                    "ArgumentString": {
+                        "Handle": "ls::TranslatedStringRepository::s_HandleUnknown",
+                        "Version": 0
+                    },
+                    "Handle": {
+                        "Handle": "ResStr_2726791294",
+                        "Version": 0
+                    }
+                },
+                "field_10": 5
+            }
+        ],
+        "TranslatedStrings": []
+    },
+    "ServerExperienceGaveOut": {
+        "Experience": 0
+    },
+    "ServerFleeBlocked": {},
+    "ServerHotbarOrder": {},
+    "ServerIconList": {
+        "Icons": [
+            {
+                "Icon": "69c6d55e-2faa-16a0-f0bd-7e3dce4529cf-_(Icon_Elf_Female)",
+                "field_4": 4
+            },
+            {
+                "Icon": "CustomIconSet",
+                "field_4": 1794
+            }
+        ]
+    },
+    "ServerInventoryItemDataPopulated": {},
+    "ServerIsCurrentOwner": {
+        "Owner": [
+            "Entity (0200000100000374)",
+            "Entity (0200000100000448)",
+            "Entity (0200000100000449)",
+            "Entity (02000001000003f5)",
+            "Entity (0200000100000421)",
+            "Entity (02000001000002e6)",
+            "Entity (0200000100000458)",
+            "Entity (020000010000022b)",
+            "Entity (0200000100000217)",
+            "Entity (02000001000002b5)",
+            "Entity (02000001000001db)",
+            "Entity (02000001000001dc)",
+            "Entity (0200000100000459)",
+            "Entity (0200000100000267)"
+        ]
+    },
+    "ServerIsLatestOwner": {
+        "Owner": [
+            "Entity (0200000100000374)",
+            "Entity (0200000100000448)",
+            "Entity (0200000100000449)",
+            "Entity (02000001000003f5)",
+            "Entity (0200000100000421)",
+            "Entity (02000001000002e6)",
+            "Entity (0200000100000458)",
+            "Entity (020000010000022b)",
+            "Entity (0200000100000217)",
+            "Entity (02000001000002b5)",
+            "Entity (02000001000001db)",
+            "Entity (02000001000001dc)",
+            "Entity (0200000100000459)",
+            "Entity (0200000100000267)"
+        ]
+    },
+    "ServerIsOriginalOwner": {
+        "Owner": [
+            "Entity (0200000100000374)",
+            "Entity (0200000100000448)",
+            "Entity (0200000100000449)",
+            "Entity (02000001000003f5)",
+            "Entity (0200000100000421)",
+            "Entity (02000001000002e6)",
+            "Entity (0200000100000458)",
+            "Entity (020000010000022b)",
+            "Entity (0200000100000217)",
+            "Entity (02000001000002b5)",
+            "Entity (02000001000001db)",
+            "Entity (02000001000001dc)",
+            "Entity (0200000100000459)",
+            "Entity (0200000100000267)"
+        ]
+    },
+    "ServerOsirisTag": {
+        "Tags": [
+            "306b9b05-1057-4770-aa17-01af21acd650",
+            "25bf5042-5bf6-4360-8df8-ab107ccb0d37",
+            "a0738fdf-ca0c-446f-a11d-6211ecac3291",
+            "17c2405e-5771-4150-ad00-b1ef8d1dd5ae",
+            "8f815f65-6fe5-4671-8e2b-63575e1f2e88",
+            "772b1dc6-14be-417f-afa3-c6cf364f45b4",
+            "b12e8dff-c1f0-4e9c-9ec0-1cafd22bb637",
+            "1eec74e8-3673-4500-abec-57b7ed8469ed",
+            "f15e9b0d-676c-4f52-9abf-365cff89ef0f",
+            "4835ba9d-c0d6-40fb-ad62-88f875b536c2"
+        ]
+    },
+    "ServerPassiveBase": {
+        "field_0": [
+            "ShortResting",
+            "NonLethal",
+            "WeaponThrow",
+            "Perform",
+            "AttackOfOpportunity",
+            "DarknessRules",
+            "CombatStartAttack"
+        ]
+    },
+    "ServerPassivePersistentData": {
+        "field_0": 1082130432,
+        "field_4": 1082823174
+    },
+    "ServerPickpocket": {
+        "Items": []
+    },
+    "ServerRaceTag": {
+        "Tags": [
+            "889e0db5-d03e-4b63-86d7-13418f69729f",
+            "351f4e42-1217-4c06-b47a-443dcf69b111",
+            "7fbed0d4-cabc-4a9d-804e-12ca6088a0a8"
+        ]
+    },
+    "ServerReplicationDependencyOwner": {
+        "Dependents": [
+            "Entity (0200000100000af0)",
+            "Entity (0200000100000af1)",
+            "Entity (0200000100000af2)",
+            "Entity (02000001000007e6)",
+            "Entity (02000001000007e7)",
+            "Entity (0200000100000818)",
+            "Entity (0200000100000819)",
+            "Entity (020000010000081a)",
+            "Entity (020000010000081b)",
+            "Entity (020000010000081c)",
+            "Entity (020000010000081d)",
+            "Entity (02000001000008c7)",
+            "Entity (0200000100000b35)",
+            "Entity (0200000100000b36)",
+            "Entity (0200000100000b37)",
+            "Entity (0200000100000de0)",
+            "Entity (0200000100000de1)",
+            "Entity (0200000100000dbd)",
+            "Entity (0200000100000dbc)",
+            "Entity (0200000100001986)",
+            "Entity (0200000100001987)",
+            "Entity (0200000100001988)",
+            "Entity (0200000100001a01)",
+            "Entity (0200000100001a02)",
+            "Entity (0200000100001a03)",
+            "Entity (0200000100001a04)",
+            "Entity (0200000100001a05)",
+            "Entity (0200000100001a06)",
+            "Entity (0200000100001a07)",
+            "Entity (02000001000015ba)",
+            "Entity (02000001000015bb)",
+            "Entity (02000001000015ac)",
+            "Entity (02000001000015be)",
+            "Entity (02000001000015c1)",
+            "Entity (0200000100000def)",
+            "Entity (02000001000015ad)",
+            "Entity (02000001000015ae)",
+            "Entity (02000001000015bc)",
+            "Entity (02000001000015bd)",
+            "Entity (02000001000015bf)",
+            "Entity (02000001000015c0)",
+            "Entity (02000001000015af)",
+            "Entity (02000001000015b0)",
+            "Entity (02000001000015b1)",
+            "Entity (02000001000015b2)",
+            "Entity (02000001000015b3)",
+            "Entity (02000001000015b4)",
+            "Entity (02000001000015b5)",
+            "Entity (02000001000015b6)",
+            "Entity (02000001000015b7)",
+            "Entity (02000001000015b8)",
+            "Entity (02000001000015b9)",
+            "Entity (0200000100001e64)",
+            "Entity (0200000100001e63)",
+            "Entity (0200000100001e62)",
+            "Entity (0200000100001e73)",
+            "Entity (02000001000021d9)",
+            "Entity (0200000100001e71)",
+            "Entity (0200000100001e72)",
+            "Entity (0200000100001e74)",
+            "Entity (0200000100001e6b)",
+            "Entity (0200000100001e6c)",
+            "Entity (0200000100001e6d)",
+            "Entity (0200000100001e6e)",
+            "Entity (0200000100001e6f)",
+            "Entity (0200000100001e70)",
+            "Entity (0200000100002307)"
+        ]
+    },
+    "ServerSafePosition": {
+        "Position": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "field_24": false
+    },
+    "ServerShapeshiftStates": {
+        "States": [],
+        "field_0": 0
+    },
+    "ServerStatusDifficultyModifiers": {
+        "Modifiers": {
+            "STATUS_EASY": [
+                "PLAYER_BONUSES_EASYMODE"
+            ]
+        }
+    },
+    "ServerTemplateTag": {
+        "Tags": [
+            "be87fe94-657b-49fd-bec5-1348119018c7",
+            "0a79a905-d41f-401f-a0e4-a2401143fc17",
+            "3806477c-65a7-4100-9f92-be4c12c4fa4f"
+        ]
+    },
+    "ServerToggledPassives": {
+        "Passives": {
+            "NonLethal": false
+        }
+    },
+    "ShapeshiftHealthReservation": {
+        "Reservations": {}
+    },
+    "ShootThroughType": {
+        "Type": 6
+    },
+    "Sight": {
+        "field_0": 1100218368,
+        "field_4": 1073741824,
+        "field_8": 1119092736,
+        "field_C": 1119092736
+    },
+    "SightData": {
+        "field_0": "d61391d8-e92e-cedb-bcf4-41f19b3f4a70",
+        "field_10": 1094713344,
+        "field_14": 1119092736,
+        "field_18": 1119092736,
+        "field_1C": 1100218368,
+        "field_20": 0,
+        "field_24": 0
+    },
+    "SightEntityViewshed": {
+        "field_0": [
+            "5a11f835-daea-5066-9e32-742781fc3bea",
+            "cef59865-a551-0c66-3ac8-28ec8aa98d0d",
+            "8f9c15de-bef8-e9e8-5d66-6c1545efcc23",
+            "c04592a9-a396-bcf7-1c0c-2bf4baf01237",
+            "5d19d412-4448-7d52-c5d9-5c7a67405115",
+            "6e7dd728-a279-7efa-8b93-f17129dddf73",
+            "70b7a8d8-a75e-de0c-f370-2448a10bc55b",
+            "7202b583-c043-86f3-d3ba-73adc7b27128",
+            "39695f42-df03-616b-c911-d2e127d7d818",
+            "a6f44310-2d66-43c1-f6c3-fdd931af043a"
+        ]
+    },
+    "Speaker": {
+        "field_0": [
+            "b9b26a44-943b-4427-9890-d81c7e81a75b"
+        ]
+    },
+    "SpellAiConditions": {
+        "field_18": {}
+    },
+    "SpellBook": {
+        "Spells": [
+            {
+                "CooldownType": "Default",
+                "Id": {
+                    "OriginatorPrototype": "Projectile_Jump",
+                    "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                    "Prototype": "Projectile_Jump",
+                    "SourceType": "SpellSet"
+                },
+                "InnerEntries": [
+                    {
+                        "field_0": 1,
+                        "field_4": 8084
+                    },
+                    {
+                        "field_0": 2,
+                        "field_4": 8080
+                    },
+                    {
+                        "field_0": 4,
+                        "field_4": 8064
+                    }
+                ],
+                "SpellCastingAbility": "Intelligence",
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_38": -1,
+                "field_3C": -1,
+                "field_41": 1,
+                "field_42": 0
+            },
+            {
+                "CooldownType": "Default",
+                "Id": {
+                    "OriginatorPrototype": "Target_Dip",
+                    "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                    "Prototype": "Target_Dip",
+                    "SourceType": "SpellSet"
+                },
+                "InnerEntries": [
+                    {
+                        "field_0": 1,
+                        "field_4": 4020
+                    },
+                    {
+                        "field_0": 2,
+                        "field_4": 4016
+                    },
+                    {
+                        "field_0": 4,
+                        "field_4": 3968
+                    }
+                ],
+                "SpellCastingAbility": "Intelligence",
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_38": -1,
+                "field_3C": -1,
+                "field_41": 1,
+                "field_42": 0
+            },
+            {
+                "CooldownType": "Default",
+                "Id": {
+                    "OriginatorPrototype": "Shout_Hide",
+                    "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                    "Prototype": "Shout_Hide",
+                    "SourceType": "SpellSet"
+                },
+                "InnerEntries": [
+                    {
+                        "field_0": 1,
+                        "field_4": 3988
+                    },
+                    {
+                        "field_0": 2,
+                        "field_4": 3984
+                    },
+                    {
+                        "field_0": 4,
+                        "field_4": 3968
+                    }
+                ],
+                "SpellCastingAbility": "Intelligence",
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_38": -1,
+                "field_3C": -1,
+                "field_41": 1,
+                "field_42": 0
+            },
+            {
+                "CooldownType": "Default",
+                "Id": {
+                    "OriginatorPrototype": "Target_Shove",
+                    "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                    "Prototype": "Target_Shove",
+                    "SourceType": "SpellSet"
+                },
+                "InnerEntries": [
+                    {
+                        "field_0": 1,
+                        "field_4": 3988
+                    },
+                    {
+                        "field_0": 2,
+                        "field_4": 3984
+                    },
+                    {
+                        "field_0": 4,
+                        "field_4": 3968
+                    }
+                ],
+                "SpellCastingAbility": "Intelligence",
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_38": -1,
+                "field_3C": -1,
+                "field_41": 1,
+                "field_42": 0
+            },
+            {
+                "CooldownType": "Default",
+                "Id": {
+                    "OriginatorPrototype": "Throw_Throw",
+                    "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                    "Prototype": "Throw_Throw",
+                    "SourceType": "SpellSet"
+                },
+                "InnerEntries": [
+                    {
+                        "field_0": 1,
+                        "field_4": 3988
+                    },
+                    {
+                        "field_0": 2,
+                        "field_4": 3984
+                    },
+                    {
+                        "field_0": 4,
+                        "field_4": 3968
+                    }
+                ],
+                "SpellCastingAbility": "Intelligence",
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_38": -1,
+                "field_3C": -1,
+                "field_41": 1,
+                "field_42": 0
+            },
+            {
+                "CooldownType": "Default",
+                "Id": {
+                    "OriginatorPrototype": "Throw_ImprovisedWeapon",
+                    "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                    "Prototype": "Throw_ImprovisedWeapon",
+                    "SourceType": "SpellSet"
+                },
+                "InnerEntries": [
+                    {
+                        "field_0": 1,
+                        "field_4": 3988
+                    },
+                    {
+                        "field_0": 2,
+                        "field_4": 3984
+                    },
+                    {
+                        "field_0": 4,
+                        "field_4": 3968
+                    }
+                ],
+                "SpellCastingAbility": "Intelligence",
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_38": -1,
+                "field_3C": -1,
+                "field_41": 1,
+                "field_42": 0
+            },
+            {
+                "CooldownType": "Default",
+                "Id": {
+                    "OriginatorPrototype": "Shout_Dash",
+                    "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                    "Prototype": "Shout_Dash",
+                    "SourceType": "SpellSet"
+                },
+                "InnerEntries": [
+                    {
+                        "field_0": 1,
+                        "field_4": 3988
+                    },
+                    {
+                        "field_0": 2,
+                        "field_4": 3984
+                    },
+                    {
+                        "field_0": 4,
+                        "field_4": 3968
+                    }
+                ],
+                "SpellCastingAbility": "Intelligence",
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_38": -1,
+                "field_3C": -1,
+                "field_41": 1,
+                "field_42": 0
+            },
+            {
+                "CooldownType": "Default",
+                "Id": {
+                    "OriginatorPrototype": "Target_Help",
+                    "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                    "Prototype": "Target_Help",
+                    "SourceType": "SpellSet"
+                },
+                "InnerEntries": [
+                    {
+                        "field_0": 1,
+                        "field_4": 3988
+                    },
+                    {
+                        "field_0": 2,
+                        "field_4": 3984
+                    },
+                    {
+                        "field_0": 4,
+                        "field_4": 3968
+                    }
+                ],
+                "SpellCastingAbility": "Intelligence",
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_38": -1,
+                "field_3C": -1,
+                "field_41": 1,
+                "field_42": 0
+            },
+            {
+                "CooldownType": "Default",
+                "Id": {
+                    "OriginatorPrototype": "Shout_Disengage",
+                    "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                    "Prototype": "Shout_Disengage",
+                    "SourceType": "SpellSet"
+                },
+                "InnerEntries": [
+                    {
+                        "field_0": 1,
+                        "field_4": 3988
+                    },
+                    {
+                        "field_0": 2,
+                        "field_4": 3984
+                    },
+                    {
+                        "field_0": 4,
+                        "field_4": 3968
+                    }
+                ],
+                "SpellCastingAbility": "Intelligence",
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_38": -1,
+                "field_3C": -1,
+                "field_41": 1,
+                "field_42": 0
+            },
+            {
+                "CooldownType": "Default",
+                "Id": {
+                    "OriginatorPrototype": "Target_DestroyWater",
+                    "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                    "Prototype": "Target_DestroyWater",
+                    "SourceType": "Progression0"
+                },
+                "InnerEntries": [
+                    {
+                        "field_0": 1,
+                        "field_4": 3991
+                    },
+                    {
+                        "field_0": 2,
+                        "field_4": 3987
+                    },
+                    {
+                        "field_0": 4,
+                        "field_4": 3968
+                    }
+                ],
+                "SpellCastingAbility": "Wisdom",
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_38": -1,
+                "field_3C": -1,
+                "field_41": 1,
+                "field_42": 1
+            },
+            {
+                "CooldownType": "Default",
+                "Id": {
+                    "OriginatorPrototype": "Target_CreateWater",
+                    "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                    "Prototype": "Target_CreateWater",
+                    "SourceType": "Progression0"
+                },
+                "InnerEntries": [
+                    {
+                        "field_0": 1,
+                        "field_4": 3991
+                    },
+                    {
+                        "field_0": 2,
+                        "field_4": 3987
+                    },
+                    {
+                        "field_0": 4,
+                        "field_4": 3968
+                    }
+                ],
+                "SpellCastingAbility": "Wisdom",
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_38": -1,
+                "field_3C": -1,
+                "field_41": 1,
+                "field_42": 1
+            },
+            {
+                "CooldownType": "Default",
+                "Id": {
+                    "OriginatorPrototype": "Target_MainHandAttack",
+                    "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                    "Prototype": "Target_MainHandAttack",
+                    "SourceType": "WeaponAttack"
+                },
+                "InnerEntries": [
+                    {
+                        "field_0": 1,
+                        "field_4": 4020
+                    },
+                    {
+                        "field_0": 2,
+                        "field_4": 4016
+                    },
+                    {
+                        "field_0": 4,
+                        "field_4": 3968
+                    }
+                ],
+                "SpellCastingAbility": "None",
+                "SpellUUID": "00000000-0000-0000-0000-000000000000",
+                "field_38": -1,
+                "field_3C": -1,
+                "field_41": 1,
+                "field_42": 0
+            },
+            {
+                "CooldownType": "UntilShortRest",
+                "Id": {
+                    "OriginatorPrototype": "Target_Topple",
+                    "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                    "Prototype": "Target_Topple",
+                    "SourceType": "Boost"
+                },
+                "InnerEntries": [
+                    {
+                        "field_0": 1,
+                        "field_4": 4020
+                    },
+                    {
+                        "field_0": 2,
+                        "field_4": 4016
+                    },
+                    {
+                        "field_0": 4,
+                        "field_4": 3968
+                    }
+                ],
+                "SpellCastingAbility": "Wisdom",
+                "SpellUUID": "00000000-0000-0000-0000-000000000000",
+                "field_38": -1,
+                "field_3C": -1,
+                "field_41": 1,
+                "field_42": 0
+            },
+            {
+                "CooldownType": "Default",
+                "Id": {
+                    "OriginatorPrototype": "Target_Goodberry",
+                    "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                    "Prototype": "Target_Goodberry",
+                    "SourceType": "Progression0"
+                },
+                "InnerEntries": [
+                    {
+                        "field_0": 1,
+                        "field_4": 3991
+                    },
+                    {
+                        "field_0": 2,
+                        "field_4": 3987
+                    },
+                    {
+                        "field_0": 4,
+                        "field_4": 3968
+                    }
+                ],
+                "SpellCastingAbility": "Wisdom",
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_38": -1,
+                "field_3C": -1,
+                "field_41": 1,
+                "field_42": 1
+            },
+            {
+                "CooldownType": "Default",
+                "Id": {
+                    "OriginatorPrototype": "Target_FaerieFire",
+                    "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                    "Prototype": "Target_FaerieFire",
+                    "SourceType": "Progression0"
+                },
+                "InnerEntries": [
+                    {
+                        "field_0": 1,
+                        "field_4": 3990
+                    },
+                    {
+                        "field_0": 2,
+                        "field_4": 3986
+                    },
+                    {
+                        "field_0": 4,
+                        "field_4": 3968
+                    }
+                ],
+                "SpellCastingAbility": "Wisdom",
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_38": -1,
+                "field_3C": -1,
+                "field_41": 1,
+                "field_42": 1
+            },
+            {
+                "CooldownType": "Default",
+                "Id": {
+                    "OriginatorPrototype": "Target_Longstrider",
+                    "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                    "Prototype": "Target_Longstrider",
+                    "SourceType": "Progression0"
+                },
+                "InnerEntries": [
+                    {
+                        "field_0": 1,
+                        "field_4": 3991
+                    },
+                    {
+                        "field_0": 2,
+                        "field_4": 3987
+                    },
+                    {
+                        "field_0": 4,
+                        "field_4": 3968
+                    }
+                ],
+                "SpellCastingAbility": "Wisdom",
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_38": -1,
+                "field_3C": -1,
+                "field_41": 1,
+                "field_42": 1
+            },
+            {
+                "CooldownType": "Default",
+                "Id": {
+                    "OriginatorPrototype": "Target_CreateDestroyWater",
+                    "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                    "Prototype": "Target_CreateDestroyWater",
+                    "SourceType": "Progression0"
+                },
+                "InnerEntries": [
+                    {
+                        "field_0": 1,
+                        "field_4": 3991
+                    },
+                    {
+                        "field_0": 2,
+                        "field_4": 3987
+                    },
+                    {
+                        "field_0": 4,
+                        "field_4": 3968
+                    }
+                ],
+                "SpellCastingAbility": "Wisdom",
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_38": -1,
+                "field_3C": -1,
+                "field_41": 1,
+                "field_42": 1
+            },
+            {
+                "CooldownType": "Default",
+                "Id": {
+                    "OriginatorPrototype": "Target_FogCloud",
+                    "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                    "Prototype": "Target_FogCloud",
+                    "SourceType": "Progression0"
+                },
+                "InnerEntries": [
+                    {
+                        "field_0": 1,
+                        "field_4": 3991
+                    },
+                    {
+                        "field_0": 2,
+                        "field_4": 3987
+                    },
+                    {
+                        "field_0": 4,
+                        "field_4": 3968
+                    }
+                ],
+                "SpellCastingAbility": "Wisdom",
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_38": -1,
+                "field_3C": -1,
+                "field_41": 1,
+                "field_42": 1
+            },
+            {
+                "CooldownType": "Default",
+                "Id": {
+                    "OriginatorPrototype": "Shout_Shillelagh",
+                    "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                    "Prototype": "Shout_Shillelagh",
+                    "SourceType": "Progression0"
+                },
+                "InnerEntries": [
+                    {
+                        "field_0": 1,
+                        "field_4": 4023
+                    },
+                    {
+                        "field_0": 2,
+                        "field_4": 4019
+                    },
+                    {
+                        "field_0": 4,
+                        "field_4": 3968
+                    }
+                ],
+                "SpellCastingAbility": "Wisdom",
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_38": -1,
+                "field_3C": -1,
+                "field_41": 1,
+                "field_42": 0
+            },
+            {
+                "CooldownType": "Default",
+                "Id": {
+                    "OriginatorPrototype": "Target_ThornWhip",
+                    "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                    "Prototype": "Target_ThornWhip",
+                    "SourceType": "Progression0"
+                },
+                "InnerEntries": [
+                    {
+                        "field_0": 1,
+                        "field_4": 3991
+                    },
+                    {
+                        "field_0": 2,
+                        "field_4": 3987
+                    },
+                    {
+                        "field_0": 4,
+                        "field_4": 3968
+                    }
+                ],
+                "SpellCastingAbility": "Wisdom",
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_38": -1,
+                "field_3C": -1,
+                "field_41": 1,
+                "field_42": 0
+            },
+            {
+                "CooldownType": "Default",
+                "Id": {
+                    "OriginatorPrototype": "Projectile_IceKnife",
+                    "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                    "Prototype": "Projectile_IceKnife",
+                    "SourceType": "Progression0"
+                },
+                "InnerEntries": [
+                    {
+                        "field_0": 1,
+                        "field_4": 3989
+                    },
+                    {
+                        "field_0": 2,
+                        "field_4": 3985
+                    },
+                    {
+                        "field_0": 4,
+                        "field_4": 3968
+                    }
+                ],
+                "SpellCastingAbility": "Wisdom",
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_38": -1,
+                "field_3C": -1,
+                "field_41": 1,
+                "field_42": 1
+            },
+            {
+                "CooldownType": "Default",
+                "Id": {
+                    "OriginatorPrototype": "Zone_Thunderwave",
+                    "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                    "Prototype": "Zone_Thunderwave",
+                    "SourceType": "Progression0"
+                },
+                "InnerEntries": [
+                    {
+                        "field_0": 1,
+                        "field_4": 3991
+                    },
+                    {
+                        "field_0": 2,
+                        "field_4": 3987
+                    },
+                    {
+                        "field_0": 4,
+                        "field_4": 3968
+                    }
+                ],
+                "SpellCastingAbility": "Wisdom",
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_38": -1,
+                "field_3C": -1,
+                "field_41": 1,
+                "field_42": 1
+            },
+            {
+                "CooldownType": "Default",
+                "Id": {
+                    "OriginatorPrototype": "Target_CureWounds",
+                    "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                    "Prototype": "Target_CureWounds",
+                    "SourceType": "Progression0"
+                },
+                "InnerEntries": [
+                    {
+                        "field_0": 1,
+                        "field_4": 3990
+                    },
+                    {
+                        "field_0": 2,
+                        "field_4": 3986
+                    },
+                    {
+                        "field_0": 4,
+                        "field_4": 3968
+                    }
+                ],
+                "SpellCastingAbility": "Wisdom",
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_38": -1,
+                "field_3C": -1,
+                "field_41": 1,
+                "field_42": 1
+            },
+            {
+                "CooldownType": "Default",
+                "Id": {
+                    "OriginatorPrototype": "Target_HealingWord",
+                    "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                    "Prototype": "Target_HealingWord",
+                    "SourceType": "Progression0"
+                },
+                "InnerEntries": [
+                    {
+                        "field_0": 1,
+                        "field_4": 3990
+                    },
+                    {
+                        "field_0": 2,
+                        "field_4": 3986
+                    },
+                    {
+                        "field_0": 4,
+                        "field_4": 3968
+                    }
+                ],
+                "SpellCastingAbility": "Wisdom",
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_38": -1,
+                "field_3C": -1,
+                "field_41": 1,
+                "field_42": 1
+            },
+            {
+                "CooldownType": "Default",
+                "Id": {
+                    "OriginatorPrototype": "Target_Jump",
+                    "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                    "Prototype": "Target_Jump",
+                    "SourceType": "Progression0"
+                },
+                "InnerEntries": [
+                    {
+                        "field_0": 1,
+                        "field_4": 3991
+                    },
+                    {
+                        "field_0": 2,
+                        "field_4": 3987
+                    },
+                    {
+                        "field_0": 4,
+                        "field_4": 3968
+                    }
+                ],
+                "SpellCastingAbility": "Wisdom",
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_38": -1,
+                "field_3C": -1,
+                "field_41": 1,
+                "field_42": 1
+            },
+            {
+                "CooldownType": "Default",
+                "Id": {
+                    "OriginatorPrototype": "Shout_SpeakWithAnimals",
+                    "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                    "Prototype": "Shout_SpeakWithAnimals",
+                    "SourceType": "Progression0"
+                },
+                "InnerEntries": [
+                    {
+                        "field_0": 1,
+                        "field_4": 3991
+                    },
+                    {
+                        "field_0": 2,
+                        "field_4": 3987
+                    },
+                    {
+                        "field_0": 4,
+                        "field_4": 3968
+                    }
+                ],
+                "SpellCastingAbility": "Wisdom",
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_38": -1,
+                "field_3C": -1,
+                "field_41": 1,
+                "field_42": 1
+            },
+            {
+                "CooldownType": "Default",
+                "Id": {
+                    "OriginatorPrototype": "Target_AnimalFriendship",
+                    "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                    "Prototype": "Target_AnimalFriendship",
+                    "SourceType": "Progression0"
+                },
+                "InnerEntries": [
+                    {
+                        "field_0": 1,
+                        "field_4": 3991
+                    },
+                    {
+                        "field_0": 2,
+                        "field_4": 3987
+                    },
+                    {
+                        "field_0": 4,
+                        "field_4": 3968
+                    }
+                ],
+                "SpellCastingAbility": "Wisdom",
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_38": -1,
+                "field_3C": -1,
+                "field_41": 1,
+                "field_42": 1
+            },
+            {
+                "CooldownType": "Default",
+                "Id": {
+                    "OriginatorPrototype": "Target_CharmPerson",
+                    "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                    "Prototype": "Target_CharmPerson",
+                    "SourceType": "Progression0"
+                },
+                "InnerEntries": [
+                    {
+                        "field_0": 1,
+                        "field_4": 3991
+                    },
+                    {
+                        "field_0": 2,
+                        "field_4": 3987
+                    },
+                    {
+                        "field_0": 4,
+                        "field_4": 3968
+                    }
+                ],
+                "SpellCastingAbility": "Wisdom",
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_38": -1,
+                "field_3C": -1,
+                "field_41": 1,
+                "field_42": 1
+            },
+            {
+                "CooldownType": "Default",
+                "Id": {
+                    "OriginatorPrototype": "Target_Entangle",
+                    "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                    "Prototype": "Target_Entangle",
+                    "SourceType": "Progression0"
+                },
+                "InnerEntries": [
+                    {
+                        "field_0": 1,
+                        "field_4": 3991
+                    },
+                    {
+                        "field_0": 2,
+                        "field_4": 3987
+                    },
+                    {
+                        "field_0": 4,
+                        "field_4": 3968
+                    }
+                ],
+                "SpellCastingAbility": "Wisdom",
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_38": -1,
+                "field_3C": -1,
+                "field_41": 1,
+                "field_42": 1
+            },
+            {
+                "CooldownType": "Default",
+                "Id": {
+                    "OriginatorPrototype": "Target_TCP_SummonChest",
+                    "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                    "Prototype": "Target_TCP_SummonChest",
+                    "SourceType": "Boost"
+                },
+                "InnerEntries": [
+                    {
+                        "field_0": 1,
+                        "field_4": 3988
+                    },
+                    {
+                        "field_0": 2,
+                        "field_4": 3984
+                    },
+                    {
+                        "field_0": 4,
+                        "field_4": 3968
+                    }
+                ],
+                "SpellCastingAbility": "Wisdom",
+                "SpellUUID": "00000000-0000-0000-0000-000000000000",
+                "field_38": -1,
+                "field_3C": -1,
+                "field_41": 1,
+                "field_42": 0
+            }
+        ],
+        "field_0": 144115192370823286
+    },
+    "SpellBookCooldowns": {
+        "Cooldowns": []
+    },
+    "SpellBookPrepares": {
+        "PreparedSpells": [
+            {
+                "OriginatorPrototype": "Projectile_Jump",
+                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                "SourceType": "SpellSet"
+            },
+            {
+                "OriginatorPrototype": "Target_Dip",
+                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                "SourceType": "SpellSet"
+            },
+            {
+                "OriginatorPrototype": "Shout_Hide",
+                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                "SourceType": "SpellSet"
+            },
+            {
+                "OriginatorPrototype": "Target_Shove",
+                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                "SourceType": "SpellSet"
+            },
+            {
+                "OriginatorPrototype": "Throw_Throw",
+                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                "SourceType": "SpellSet"
+            },
+            {
+                "OriginatorPrototype": "Throw_ImprovisedWeapon",
+                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                "SourceType": "SpellSet"
+            },
+            {
+                "OriginatorPrototype": "Shout_Dash",
+                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                "SourceType": "SpellSet"
+            },
+            {
+                "OriginatorPrototype": "Target_Help",
+                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                "SourceType": "SpellSet"
+            },
+            {
+                "OriginatorPrototype": "Shout_Disengage",
+                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                "SourceType": "SpellSet"
+            },
+            {
+                "OriginatorPrototype": "Target_HealingWord",
+                "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                "SourceType": "Progression0"
+            },
+            {
+                "OriginatorPrototype": "Target_Goodberry",
+                "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                "SourceType": "Progression0"
+            },
+            {
+                "OriginatorPrototype": "Target_Entangle",
+                "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                "SourceType": "Progression0"
+            },
+            {
+                "OriginatorPrototype": "Projectile_IceKnife",
+                "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                "SourceType": "Progression0"
+            },
+            {
+                "OriginatorPrototype": "Target_MainHandAttack",
+                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                "SourceType": "WeaponAttack"
+            },
+            {
+                "OriginatorPrototype": "Target_Topple",
+                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                "SourceType": "Boost"
+            },
+            {
+                "OriginatorPrototype": "Target_ThornWhip",
+                "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                "SourceType": "Progression0"
+            },
+            {
+                "OriginatorPrototype": "Shout_Shillelagh",
+                "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                "SourceType": "Progression0"
+            },
+            {
+                "OriginatorPrototype": "Target_TCP_SummonChest",
+                "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                "SourceType": "Boost"
+            }
+        ],
+        "field_30": {
+            "00000000-0000-0000-0000-000000000000": 0,
+            "457d0a6e-9da8-4f95-a225-18382f0e94b5": 4
+        },
+        "field_88": {
+            "00000000-0000-0000-0000-000000000000": 4,
+            "457d0a6e-9da8-4f95-a225-18382f0e94b5": 4
+        }
+    },
+    "SpellCastCanBeTargeted": {
+        "Dummy": 0
+    },
+    "SpellContainer": {
+        "Spells": [
+            {
+                "ContainerSpell": "",
+                "CooldownType": "Default",
+                "ItemHandle": null,
+                "SelectionType": "Singular",
+                "SpellCastingAbility": "Wisdom",
+                "SpellId": {
+                    "OriginatorPrototype": "Projectile_Jump",
+                    "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                    "SourceType": "SpellSet"
+                },
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_29": 0,
+                "field_48": 0
+            },
+            {
+                "ContainerSpell": "",
+                "CooldownType": "Default",
+                "ItemHandle": null,
+                "SelectionType": "Singular",
+                "SpellCastingAbility": "Wisdom",
+                "SpellId": {
+                    "OriginatorPrototype": "Target_Dip",
+                    "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                    "SourceType": "SpellSet"
+                },
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_29": 0,
+                "field_48": 0
+            },
+            {
+                "ContainerSpell": "",
+                "CooldownType": "Default",
+                "ItemHandle": null,
+                "SelectionType": "Singular",
+                "SpellCastingAbility": "Wisdom",
+                "SpellId": {
+                    "OriginatorPrototype": "Shout_Hide",
+                    "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                    "SourceType": "SpellSet"
+                },
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_29": 0,
+                "field_48": 0
+            },
+            {
+                "ContainerSpell": "",
+                "CooldownType": "Default",
+                "ItemHandle": null,
+                "SelectionType": "Singular",
+                "SpellCastingAbility": "Wisdom",
+                "SpellId": {
+                    "OriginatorPrototype": "Target_Shove",
+                    "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                    "SourceType": "SpellSet"
+                },
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_29": 0,
+                "field_48": 0
+            },
+            {
+                "ContainerSpell": "",
+                "CooldownType": "Default",
+                "ItemHandle": null,
+                "SelectionType": "Singular",
+                "SpellCastingAbility": "Wisdom",
+                "SpellId": {
+                    "OriginatorPrototype": "Throw_Throw",
+                    "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                    "SourceType": "SpellSet"
+                },
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_29": 0,
+                "field_48": 0
+            },
+            {
+                "ContainerSpell": "",
+                "CooldownType": "Default",
+                "ItemHandle": null,
+                "SelectionType": "Singular",
+                "SpellCastingAbility": "Wisdom",
+                "SpellId": {
+                    "OriginatorPrototype": "Throw_ImprovisedWeapon",
+                    "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                    "SourceType": "SpellSet"
+                },
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_29": 0,
+                "field_48": 0
+            },
+            {
+                "ContainerSpell": "",
+                "CooldownType": "Default",
+                "ItemHandle": null,
+                "SelectionType": "Singular",
+                "SpellCastingAbility": "Wisdom",
+                "SpellId": {
+                    "OriginatorPrototype": "Shout_Dash",
+                    "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                    "SourceType": "SpellSet"
+                },
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_29": 0,
+                "field_48": 0
+            },
+            {
+                "ContainerSpell": "",
+                "CooldownType": "Default",
+                "ItemHandle": null,
+                "SelectionType": "Singular",
+                "SpellCastingAbility": "Wisdom",
+                "SpellId": {
+                    "OriginatorPrototype": "Target_Help",
+                    "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                    "SourceType": "SpellSet"
+                },
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_29": 0,
+                "field_48": 0
+            },
+            {
+                "ContainerSpell": "",
+                "CooldownType": "Default",
+                "ItemHandle": null,
+                "SelectionType": "Singular",
+                "SpellCastingAbility": "Wisdom",
+                "SpellId": {
+                    "OriginatorPrototype": "Shout_Disengage",
+                    "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                    "SourceType": "SpellSet"
+                },
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_29": 0,
+                "field_48": 0
+            },
+            {
+                "ContainerSpell": "",
+                "CooldownType": "Default",
+                "ItemHandle": null,
+                "SelectionType": "AddChildren",
+                "SpellCastingAbility": "Wisdom",
+                "SpellId": {
+                    "OriginatorPrototype": "Shout_Shillelagh",
+                    "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                    "SourceType": "Progression0"
+                },
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_29": 0,
+                "field_48": 0
+            },
+            {
+                "ContainerSpell": "",
+                "CooldownType": "Default",
+                "ItemHandle": null,
+                "SelectionType": "AddChildren",
+                "SpellCastingAbility": "Wisdom",
+                "SpellId": {
+                    "OriginatorPrototype": "Target_ThornWhip",
+                    "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                    "SourceType": "Progression0"
+                },
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_29": 0,
+                "field_48": 0
+            },
+            {
+                "ContainerSpell": "",
+                "CooldownType": "Default",
+                "ItemHandle": null,
+                "SelectionType": "AddChildren",
+                "SpellCastingAbility": "Wisdom",
+                "SpellId": {
+                    "OriginatorPrototype": "Projectile_IceKnife",
+                    "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                    "SourceType": "Progression0"
+                },
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_29": 1,
+                "field_48": 0
+            },
+            {
+                "ContainerSpell": "",
+                "CooldownType": "Default",
+                "ItemHandle": null,
+                "SelectionType": "AddChildren",
+                "SpellCastingAbility": "Wisdom",
+                "SpellId": {
+                    "OriginatorPrototype": "Zone_Thunderwave",
+                    "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                    "SourceType": "Progression0"
+                },
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_29": 1,
+                "field_48": 0
+            },
+            {
+                "ContainerSpell": "",
+                "CooldownType": "Default",
+                "ItemHandle": null,
+                "SelectionType": "AddChildren",
+                "SpellCastingAbility": "Wisdom",
+                "SpellId": {
+                    "OriginatorPrototype": "Target_CureWounds",
+                    "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                    "SourceType": "Progression0"
+                },
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_29": 1,
+                "field_48": 0
+            },
+            {
+                "ContainerSpell": "",
+                "CooldownType": "Default",
+                "ItemHandle": null,
+                "SelectionType": "AddChildren",
+                "SpellCastingAbility": "Wisdom",
+                "SpellId": {
+                    "OriginatorPrototype": "Target_HealingWord",
+                    "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                    "SourceType": "Progression0"
+                },
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_29": 1,
+                "field_48": 0
+            },
+            {
+                "ContainerSpell": "",
+                "CooldownType": "Default",
+                "ItemHandle": null,
+                "SelectionType": "AddChildren",
+                "SpellCastingAbility": "Wisdom",
+                "SpellId": {
+                    "OriginatorPrototype": "Target_Jump",
+                    "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                    "SourceType": "Progression0"
+                },
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_29": 1,
+                "field_48": 0
+            },
+            {
+                "ContainerSpell": "",
+                "CooldownType": "Default",
+                "ItemHandle": null,
+                "SelectionType": "AddChildren",
+                "SpellCastingAbility": "Wisdom",
+                "SpellId": {
+                    "OriginatorPrototype": "Shout_SpeakWithAnimals",
+                    "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                    "SourceType": "Progression0"
+                },
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_29": 1,
+                "field_48": 0
+            },
+            {
+                "ContainerSpell": "",
+                "CooldownType": "Default",
+                "ItemHandle": null,
+                "SelectionType": "AddChildren",
+                "SpellCastingAbility": "Wisdom",
+                "SpellId": {
+                    "OriginatorPrototype": "Target_AnimalFriendship",
+                    "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                    "SourceType": "Progression0"
+                },
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_29": 1,
+                "field_48": 0
+            },
+            {
+                "ContainerSpell": "",
+                "CooldownType": "Default",
+                "ItemHandle": null,
+                "SelectionType": "AddChildren",
+                "SpellCastingAbility": "Wisdom",
+                "SpellId": {
+                    "OriginatorPrototype": "Target_CharmPerson",
+                    "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                    "SourceType": "Progression0"
+                },
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_29": 1,
+                "field_48": 0
+            },
+            {
+                "ContainerSpell": "",
+                "CooldownType": "Default",
+                "ItemHandle": null,
+                "SelectionType": "AddChildren",
+                "SpellCastingAbility": "Wisdom",
+                "SpellId": {
+                    "OriginatorPrototype": "Target_Entangle",
+                    "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                    "SourceType": "Progression0"
+                },
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_29": 1,
+                "field_48": 0
+            },
+            {
+                "ContainerSpell": "",
+                "CooldownType": "Default",
+                "ItemHandle": null,
+                "SelectionType": "AddChildren",
+                "SpellCastingAbility": "Wisdom",
+                "SpellId": {
+                    "OriginatorPrototype": "Target_FogCloud",
+                    "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                    "SourceType": "Progression0"
+                },
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_29": 1,
+                "field_48": 0
+            },
+            {
+                "ContainerSpell": "",
+                "CooldownType": "Default",
+                "ItemHandle": null,
+                "SelectionType": "AddChildren",
+                "SpellCastingAbility": "Wisdom",
+                "SpellId": {
+                    "OriginatorPrototype": "Target_CreateDestroyWater",
+                    "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                    "SourceType": "Progression0"
+                },
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_29": 1,
+                "field_48": 0
+            },
+            {
+                "ContainerSpell": "",
+                "CooldownType": "Default",
+                "ItemHandle": null,
+                "SelectionType": "AddChildren",
+                "SpellCastingAbility": "Wisdom",
+                "SpellId": {
+                    "OriginatorPrototype": "Target_Longstrider",
+                    "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                    "SourceType": "Progression0"
+                },
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_29": 1,
+                "field_48": 0
+            },
+            {
+                "ContainerSpell": "",
+                "CooldownType": "Default",
+                "ItemHandle": null,
+                "SelectionType": "AddChildren",
+                "SpellCastingAbility": "Wisdom",
+                "SpellId": {
+                    "OriginatorPrototype": "Target_FaerieFire",
+                    "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                    "SourceType": "Progression0"
+                },
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_29": 1,
+                "field_48": 0
+            },
+            {
+                "ContainerSpell": "",
+                "CooldownType": "Default",
+                "ItemHandle": null,
+                "SelectionType": "AddChildren",
+                "SpellCastingAbility": "Wisdom",
+                "SpellId": {
+                    "OriginatorPrototype": "Target_Goodberry",
+                    "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                    "SourceType": "Progression0"
+                },
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_29": 1,
+                "field_48": 0
+            },
+            {
+                "ContainerSpell": "",
+                "CooldownType": "UntilShortRest",
+                "ItemHandle": "Entity (02000001000002e6)",
+                "SelectionType": "Singular",
+                "SpellCastingAbility": "Wisdom",
+                "SpellId": {
+                    "OriginatorPrototype": "Target_Topple",
+                    "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                    "SourceType": "Boost"
+                },
+                "SpellUUID": "00000000-0000-0000-0000-000000000000",
+                "field_29": 0,
+                "field_48": 0
+            },
+            {
+                "ContainerSpell": "",
+                "CooldownType": "Default",
+                "ItemHandle": "Entity (0200000100000af2)",
+                "SelectionType": "Singular",
+                "SpellCastingAbility": "Wisdom",
+                "SpellId": {
+                    "OriginatorPrototype": "Target_TCP_SummonChest",
+                    "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                    "SourceType": "Boost"
+                },
+                "SpellUUID": "00000000-0000-0000-0000-000000000000",
+                "field_29": 0,
+                "field_48": 0
+            },
+            {
+                "ContainerSpell": "",
+                "CooldownType": "Default",
+                "ItemHandle": null,
+                "SelectionType": "Singular",
+                "SpellCastingAbility": "None",
+                "SpellId": {
+                    "OriginatorPrototype": "Target_MainHandAttack",
+                    "ProgressionSource": "00000000-0000-0000-0000-000000000000",
+                    "SourceType": "WeaponAttack"
+                },
+                "SpellUUID": "00000000-0000-0000-0000-000000000000",
+                "field_29": 0,
+                "field_48": 0
+            },
+            {
+                "ContainerSpell": "Target_CreateDestroyWater",
+                "CooldownType": "Default",
+                "ItemHandle": null,
+                "SelectionType": "AddChildren",
+                "SpellCastingAbility": "Wisdom",
+                "SpellId": {
+                    "OriginatorPrototype": "Target_CreateWater",
+                    "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                    "SourceType": "Progression0"
+                },
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_29": 1,
+                "field_48": 0
+            },
+            {
+                "ContainerSpell": "Target_CreateDestroyWater",
+                "CooldownType": "Default",
+                "ItemHandle": null,
+                "SelectionType": "AddChildren",
+                "SpellCastingAbility": "Wisdom",
+                "SpellId": {
+                    "OriginatorPrototype": "Target_DestroyWater",
+                    "ProgressionSource": "457d0a6e-9da8-4f95-a225-18382f0e94b5",
+                    "SourceType": "Progression0"
+                },
+                "SpellUUID": "d136c5d9-0ff0-43da-acce-a74a07f8d6bf",
+                "field_29": 1,
+                "field_48": 0
+            }
+        ]
+    },
+    "Stats": {
+        "Abilities": [
+            0,
+            0,
+            30,
+            12,
+            10,
+            17,
+            12
+        ],
+        "AbilityModifiers": [
+            0,
+            -5,
+            10,
+            1,
+            0,
+            3,
+            1
+        ],
+        "ArmorType": 0,
+        "ArmorType2": 3,
+        "InitiativeBonus": 10,
+        "ProficiencyBonus": 2,
+        "RangedAttackAbility": "Strength",
+        "Skills": [
+            1,
+            3,
+            1,
+            1,
+            10,
+            10,
+            12,
+            0,
+            0,
+            0,
+            2,
+            0,
+            -5,
+            5,
+            3,
+            5,
+            5,
+            3
+        ],
+        "SpellCastingAbility": "Intelligence",
+        "UnarmedAttackAbility": "Strength",
+        "field_8C": 1,
+        "field_90": 0
+    },
+    "StatusContainer": {
+        "Statuses": {
+            "Entity (0200000100000af0)": "TUT_SUMMON_BLOCK",
+            "Entity (0200000100000af1)": "TUT_NO_CRIT_MISS",
+            "Entity (0200000100000af2)": "TCP_BOOST_DRANKPOTION"
+        }
+    },
+    "StatusImmunities": {
+        "PersonalStatusImmunities": {
+            "POISON_DROW_CONDITION": "00000000-0000-0000-0000-000000000000",
+            "SG_Sleeping_Magical": "00000000-0000-0000-0000-000000000000",
+            "SLEEP": "00000000-0000-0000-0000-000000000000"
+        }
+    },
+    "Steering": {
+        "field_0": [
+            3.4028234663852886e+38,
+            3.4028234663852886e+38,
+            3.4028234663852886e+38
+        ],
+        "field_10": 3.4028234663852886e+38,
+        "field_14": 0,
+        "field_18": 1.0,
+        "field_1C": 0,
+        "field_C": 3.3800442218780518
+    },
+    "SurfacePathInfluences": {
+        "PathInfluences": [
+            {
+                "Influence": 100,
+                "IsCloud": false,
+                "SurfaceType": "BloodElectrified"
+            },
+            {
+                "Influence": 30,
+                "IsCloud": false,
+                "SurfaceType": "BloodFrozen"
+            },
+            {
+                "Influence": 700,
+                "IsCloud": false,
+                "SurfaceType": "Lava"
+            },
+            {
+                "Influence": 40,
+                "IsCloud": false,
+                "SurfaceType": "Fire"
+            },
+            {
+                "Influence": 40,
+                "IsCloud": false,
+                "SurfaceType": "HolyFire"
+            },
+            {
+                "Influence": 100,
+                "IsCloud": false,
+                "SurfaceType": "Hellfire"
+            },
+            {
+                "Influence": 70,
+                "IsCloud": true,
+                "SurfaceType": "PoisonCloud"
+            },
+            {
+                "Influence": 70,
+                "IsCloud": false,
+                "SurfaceType": "WyvernPoison"
+            },
+            {
+                "Influence": 70,
+                "IsCloud": true,
+                "SurfaceType": "DrowPoisonCloud"
+            },
+            {
+                "Influence": 70,
+                "IsCloud": false,
+                "SurfaceType": "PurpleWormPoison"
+            },
+            {
+                "Influence": 70,
+                "IsCloud": false,
+                "SurfaceType": "SerpentVenom"
+            },
+            {
+                "Influence": 70,
+                "IsCloud": false,
+                "SurfaceType": "InvisibleGithAcid"
+            },
+            {
+                "Influence": 70,
+                "IsCloud": true,
+                "SurfaceType": "CloudkillCloud"
+            },
+            {
+                "Influence": 70,
+                "IsCloud": true,
+                "SurfaceType": "MaliceCloud"
+            },
+            {
+                "Influence": 70,
+                "IsCloud": true,
+                "SurfaceType": "CrawlerMucusCloud"
+            },
+            {
+                "Influence": 100,
+                "IsCloud": false,
+                "SurfaceType": "WaterElectrified"
+            },
+            {
+                "Influence": 30,
+                "IsCloud": false,
+                "SurfaceType": "WaterFrozen"
+            },
+            {
+                "Influence": 30,
+                "IsCloud": false,
+                "SurfaceType": "Grease"
+            },
+            {
+                "Influence": 30,
+                "IsCloud": false,
+                "SurfaceType": "Web"
+            },
+            {
+                "Influence": 40,
+                "IsCloud": false,
+                "SurfaceType": "Vines"
+            },
+            {
+                "Influence": 100,
+                "IsCloud": true,
+                "SurfaceType": "SporeBlackCloud"
+            },
+            {
+                "Influence": 40,
+                "IsCloud": true,
+                "SurfaceType": "WaterCloudElectrified"
+            },
+            {
+                "Influence": 40,
+                "IsCloud": true,
+                "SurfaceType": "SporeGreenCloud"
+            },
+            {
+                "Influence": 30,
+                "IsCloud": false,
+                "SurfaceType": "Acid"
+            },
+            {
+                "Influence": 40,
+                "IsCloud": false,
+                "SurfaceType": "CausticBrine"
+            },
+            {
+                "Influence": 30,
+                "IsCloud": true,
+                "SurfaceType": "DarknessCloud"
+            },
+            {
+                "Influence": 30,
+                "IsCloud": true,
+                "SurfaceType": "FogCloud"
+            },
+            {
+                "Influence": 30,
+                "IsCloud": false,
+                "SurfaceType": "Mud"
+            },
+            {
+                "Influence": 30,
+                "IsCloud": false,
+                "SurfaceType": "Oil"
+            },
+            {
+                "Influence": 30,
+                "IsCloud": false,
+                "SurfaceType": "Poison"
+            },
+            {
+                "Influence": 40,
+                "IsCloud": false,
+                "SurfaceType": "SpikeGrowth"
+            },
+            {
+                "Influence": 40,
+                "IsCloud": true,
+                "SurfaceType": "SporePinkCloud"
+            },
+            {
+                "Influence": 40,
+                "IsCloud": true,
+                "SurfaceType": "StinkingCloud"
+            }
+        ]
+    },
+    "TadpoleTreeState": {
+        "State": 0
+    },
+    "Tadpoled": {},
+    "Tag": {
+        "Tags": [
+            "306b9b05-1057-4770-aa17-01af21acd650",
+            "25bf5042-5bf6-4360-8df8-ab107ccb0d37",
+            "a0738fdf-ca0c-446f-a11d-6211ecac3291",
+            "17c2405e-5771-4150-ad00-b1ef8d1dd5ae",
+            "8f815f65-6fe5-4671-8e2b-63575e1f2e88",
+            "772b1dc6-14be-417f-afa3-c6cf364f45b4",
+            "b12e8dff-c1f0-4e9c-9ec0-1cafd22bb637",
+            "1eec74e8-3673-4500-abec-57b7ed8469ed",
+            "f15e9b0d-676c-4f52-9abf-365cff89ef0f",
+            "4835ba9d-c0d6-40fb-ad62-88f875b536c2",
+            "889e0db5-d03e-4b63-86d7-13418f69729f",
+            "351f4e42-1217-4c06-b47a-443dcf69b111",
+            "7fbed0d4-cabc-4a9d-804e-12ca6088a0a8",
+            "ce00b3b6-238e-4524-851b-3d1f2d2b1189",
+            "44ac4317-4d38-4d28-80e2-94024c6e42f0",
+            "fe825e69-1569-471f-9b3f-28fd3b929683",
+            "cd611d7d-b67d-42b4-a75c-a0c6091ef8a2",
+            "ada75891-25ff-4bdc-9a11-ad32de62a961",
+            "be87fe94-657b-49fd-bec5-1348119018c7",
+            "0a79a905-d41f-401f-a0e4-a2401143fc17",
+            "987da248-4855-40b8-9182-4ff04eb7c13d",
+            "653cb906-38d1-4b80-b598-00b064efff3d"
+        ]
+    },
+    "Transform": {
+        "Transform": {
+            "Scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "Translate": [
+                56.25,
+                17.5693359375,
+                -416.25
+            ]
+        }
+    },
+    "TurnBased": {
+        "ActedThisRoundInCombat": false,
+        "CanAct_M": false,
+        "Combat": "00000000-0000-0000-0000-000000000000",
+        "HadTurnInCombat": false,
+        "IsInCombat_M": false,
+        "RequestedEndTurn": false,
+        "field_10": 0,
+        "field_18": 0,
+        "field_1C": 0,
+        "field_20": 0,
+        "field_24": 0,
+        "field_28": 0,
+        "field_8": 0,
+        "field_A": false,
+        "field_C": false
+    },
+    "Unsheath": {
+        "MainHandWeapon": null,
+        "OffHandWeapon": null,
+        "State": "Sheathed",
+        "field_10": 0,
+        "field_18": 0,
+        "field_19": 0,
+        "field_1A": 0
+    },
+    "UserAvatar": {
+        "UserID": 65537,
+        "field_4": "c9b33058-9130-d621-fd8c-ea36a41d5088",
+        "field_8": 0
+    },
+    "UserReservedFor": {
+        "UserID": 65537
+    },
+    "Uuid": {
+        "EntityUuid": "d0b4cee1-5948-72c5-e207-19dfa907bef1"
+    },
+    "Voice": {
+        "Voice": "99d32cf6-5eb6-4515-9ae5-2a87a2b039c4"
+    },
+    "WeaponSet": {}
+}
